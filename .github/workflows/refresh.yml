@@ -1,0 +1,40 @@
+name: Monthly refresh
+
+on:
+  schedule:
+    # 07:10 UTC on the 1st and 16th of each month — HMRC updates the list
+    # roughly monthly on an unpredictable date, so two cheap checks per
+    # month keep the site at most ~2 weeks behind. The build exits early
+    # ("unchanged") when the source file hash hasn't moved.
+    - cron: "10 7 1,16 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pandas odfpy
+
+      - name: Rebuild dataset from gov.uk
+        run: python scripts/build.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          git commit -m "Refresh fund data from HMRC list ($(date -u +%Y-%m-%d))"
+          git push
