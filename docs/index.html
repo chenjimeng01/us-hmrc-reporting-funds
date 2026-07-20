@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>US-Domiciled Funds with UK HMRC Reporting Fund Status</title>
+<meta name="description" content="Searchable list of US-domiciled funds (ISINs beginning US) that hold UK HMRC offshore reporting fund status. Refreshed automatically from the official gov.uk list.">
+<style>
+  :root {
+    --navy: #12284b; --navy-2: #1d3a66; --accent: #2f6fb3;
+    --bg: #f6f8fa; --card: #ffffff; --line: #dfe5ec;
+    --text: #1c2733; --muted: #5a6b7d;
+    --green: #1e7a46; --green-bg: #e5f4ea;
+    --red: #a33030; --red-bg: #f9e9e9;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
+  header { background: var(--navy); color: #fff; padding: 2.2rem 1rem 2rem; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 1rem; }
+  header h1 { margin: 0 0 .4rem; font-size: 1.7rem; font-weight: 700; letter-spacing: .01em; }
+  header p { margin: 0; color: #c7d3e4; max-width: 62rem; font-size: .98rem; }
+  .stats { display: flex; flex-wrap: wrap; gap: .8rem; margin: 1.4rem 0 0; }
+  .stat { background: var(--navy-2); border-radius: 8px; padding: .65rem 1.1rem; min-width: 9.5rem; }
+  .stat b { display: block; font-size: 1.45rem; font-variant-numeric: tabular-nums; }
+  .stat span { font-size: .78rem; color: #b9c7db; text-transform: uppercase; letter-spacing: .05em; }
+  main { padding: 1.6rem 0 3rem; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 1.2rem 1.3rem; margin-bottom: 1.3rem; }
+  .intro p { margin: .5rem 0; color: var(--text); }
+  .intro p.small { color: var(--muted); font-size: .88rem; }
+  .controls { display: flex; flex-wrap: wrap; gap: .8rem; align-items: center; margin-bottom: .9rem; }
+  .controls input[type=search] { flex: 1 1 260px; padding: .6rem .8rem; font-size: 1rem; border: 1px solid var(--line); border-radius: 8px; }
+  .controls input[type=search]:focus { outline: 2px solid var(--accent); border-color: var(--accent); }
+  .controls label { font-size: .92rem; color: var(--muted); display: flex; align-items: center; gap: .35rem; white-space: nowrap; }
+  .count { font-size: .92rem; color: var(--muted); margin-left: auto; }
+  .tablebox { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
+  table { border-collapse: collapse; width: 100%; font-size: .9rem; min-width: 860px; }
+  thead th { position: sticky; top: 0; background: var(--navy); color: #fff; text-align: left; padding: .6rem .7rem; font-weight: 600; white-space: nowrap; cursor: pointer; user-select: none; }
+  thead th .dir { opacity: .7; font-size: .75rem; }
+  tbody td { padding: .5rem .7rem; border-top: 1px solid var(--line); vertical-align: top; }
+  tbody tr:nth-child(even) { background: #fafcfe; }
+  tbody tr:hover { background: #eef4fb; }
+  td.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .85rem; white-space: nowrap; }
+  .pill { display: inline-block; padding: .1rem .55rem; border-radius: 999px; font-size: .78rem; font-weight: 600; white-space: nowrap; }
+  .pill.active { color: var(--green); background: var(--green-bg); }
+  .pill.ceased { color: var(--red); background: var(--red-bg); }
+  .muted { color: var(--muted); }
+  .empty { padding: 2rem; text-align: center; color: var(--muted); }
+  h2 { font-size: 1.15rem; margin: 0 0 .6rem; color: var(--navy); }
+  .chg { margin: 0 0 1rem; }
+  .chg:last-child { margin-bottom: 0; }
+  .chg h3 { margin: 0 0 .3rem; font-size: .95rem; }
+  .chg ul { margin: .2rem 0 .4rem; padding-left: 1.2rem; font-size: .88rem; }
+  .chg .tag { font-weight: 600; }
+  .tag.add { color: var(--green); } .tag.rem, .tag.cease { color: var(--red); }
+  footer { color: var(--muted); font-size: .85rem; padding: 0 0 2.5rem; }
+  footer a { color: var(--accent); }
+  .btn { display: inline-block; padding: .45rem .9rem; border: 1px solid var(--line); border-radius: 8px; background: #fff; font-size: .88rem; color: var(--navy); text-decoration: none; cursor: pointer; }
+  .btn:hover { border-color: var(--accent); color: var(--accent); }
+  @media (max-width: 640px) { header h1 { font-size: 1.3rem; } .stat { min-width: 7.5rem; padding: .5rem .8rem; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>US-Domiciled Funds with UK HMRC Reporting Fund Status</h1>
+    <p>Every fund and share class on HMRC&rsquo;s approved offshore reporting funds list whose ISIN begins with <strong>US</strong> &mdash; extracted automatically from the official gov.uk spreadsheet and refreshed when HMRC publishes an update.</p>
+    <div class="stats">
+      <div class="stat"><b id="stat-active">&ndash;</b><span>Active share classes</span></div>
+      <div class="stat"><b id="stat-parents">&ndash;</b><span>Parent funds</span></div>
+      <div class="stat"><b id="stat-total">&ndash;</b><span>All-time US entries</span></div>
+      <div class="stat"><b id="stat-updated">&ndash;</b><span>HMRC list dated</span></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="card intro">
+    <p>Offshore funds that have successfully applied to HMRC for <strong>reporting fund status</strong> receive favourable UK tax treatment: gains on disposal are taxed as capital gains rather than as offshore income gains at income-tax rates. This matters particularly for <strong>US-connected investors resident in the UK</strong>, since US-domiciled funds and ETFs on this list can be held tax-efficiently on both sides of the Atlantic.</p>
+    <p class="small">Always confirm a fund&rsquo;s status against the <a href="https://www.gov.uk/government/publications/approved-offshore-reporting-funds" rel="noopener">official HMRC list</a> before acting, and check the &ldquo;with effect from&rdquo; and &ldquo;ceased&rdquo; dates for the period you held the fund. This page is an informational extract, not advice.</p>
+  </div>
+
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search fund name, ISIN or CUSIP&hellip;" aria-label="Search funds">
+    <label><input id="show-ceased" type="checkbox"> Include ceased funds</label>
+    <button id="dl" class="btn" type="button">Download CSV</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablebox">
+    <table id="tbl">
+      <thead><tr>
+        <th data-k="parent">Parent fund <span class="dir"></span></th>
+        <th data-k="name">Sub-fund / share class <span class="dir"></span></th>
+        <th data-k="isin">ISIN <span class="dir"></span></th>
+        <th data-k="cusip">CUSIP <span class="dir"></span></th>
+        <th data-k="from">Reporting from <span class="dir"></span></th>
+        <th data-k="ceased">Status <span class="dir"></span></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>No funds match your search.</div>
+  </div>
+
+  <div class="card" id="changelog-card" hidden style="margin-top:1.3rem">
+    <h2>Recent changes</h2>
+    <div id="changelog"></div>
+  </div>
+
+  <footer style="margin-top:1.3rem">
+    <p id="srcline">Source: HMRC, <a href="https://www.gov.uk/government/publications/approved-offshore-reporting-funds" rel="noopener">Approved offshore reporting funds</a> (Open Government Licence v3.0).</p>
+  </footer>
+</main>
+
+<script>
+(async function () {
+  const [funds, meta, changelog] = await Promise.all([
+    fetch('funds.json').then(r => r.json()),
+    fetch('meta.json').then(r => r.json()),
+    fetch('changelog.json').then(r => r.ok ? r.json() : []).catch(() => []),
+  ]);
+
+  const fmt = iso => {
+    if (!iso) return '';
+    const d = new Date(iso + 'T00:00:00Z');
+    return isNaN(d) ? iso : d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
+  };
+
+  document.getElementById('stat-active').textContent = meta.usActive.toLocaleString();
+  document.getElementById('stat-parents').textContent = meta.usParentFunds.toLocaleString();
+  document.getElementById('stat-total').textContent = meta.usShareClasses.toLocaleString();
+  document.getElementById('stat-updated').textContent = fmt(meta.sourceDate) || '?';
+  document.getElementById('srcline').innerHTML =
+    'Source: HMRC, <a href="' + meta.sourceUrl + '" rel="noopener">' + meta.sourceFile + '</a> ' +
+    '(Open Government Licence v3.0) &middot; page generated ' + fmt(meta.built.slice(0, 10)) +
+    ' from ' + meta.totalHmrcRows.toLocaleString() + ' HMRC entries.';
+
+  const q = document.getElementById('q');
+  const showCeased = document.getElementById('show-ceased');
+  const rowsEl = document.getElementById('rows');
+  const countEl = document.getElementById('count');
+  const emptyEl = document.getElementById('empty');
+  let sortKey = 'parent', sortAsc = true, view = [];
+
+  const esc = s => (s || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+  function apply() {
+    const needle = q.value.trim().toLowerCase();
+    view = funds.filter(f => {
+      if (!showCeased.checked && f.ceased) return false;
+      if (!needle) return true;
+      return [f.parent, f.name, f.isin, f.cusip].some(v => v && v.toLowerCase().includes(needle));
+    });
+    view.sort((a, b) => {
+      const av = (a[sortKey] || '').toLowerCase(), bv = (b[sortKey] || '').toLowerCase();
+      const c = av < bv ? -1 : av > bv ? 1 : 0;
+      return sortAsc ? c : -c;
+    });
+    render();
+  }
+
+  function render() {
+    rowsEl.innerHTML = view.map(f =>
+      '<tr><td>' + esc(f.parent) + '</td><td>' + esc(f.name) +
+      '</td><td class="mono">' + esc(f.isin) +
+      '</td><td class="mono">' + (f.cusip ? esc(f.cusip) : '<span class="muted">&mdash;</span>') +
+      '</td><td>' + fmt(f.from) +
+      '</td><td>' + (f.ceased
+        ? '<span class="pill ceased">Ceased ' + fmt(f.ceased) + '</span>'
+        : '<span class="pill active">Active</span>') +
+      '</td></tr>'
+    ).join('');
+    emptyEl.hidden = view.length > 0;
+    countEl.textContent = view.length.toLocaleString() + ' of ' + funds.length.toLocaleString() + ' share classes';
+    document.querySelectorAll('thead th').forEach(th => {
+      th.querySelector('.dir').textContent = th.dataset.k === sortKey ? (sortAsc ? '▲' : '▼') : '';
+    });
+  }
+
+  q.addEventListener('input', apply);
+  showCeased.addEventListener('change', apply);
+  document.querySelectorAll('thead th').forEach(th => th.addEventListener('click', () => {
+    if (sortKey === th.dataset.k) sortAsc = !sortAsc; else { sortKey = th.dataset.k; sortAsc = true; }
+    apply();
+  }));
+
+  document.getElementById('dl').addEventListener('click', () => {
+    const cols = ['parent', 'name', 'isin', 'cusip', 'from', 'ceased'];
+    const head = 'Parent Fund,Sub-Fund / Share Class,ISIN,CUSIP,Reporting From,Ceased\n';
+    const csv = head + view.map(f => cols.map(k => {
+      const v = f[k] || '';
+      return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+    }).join(',')).join('\n');
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv' }));
+    a.download = 'us-hmrc-reporting-funds.csv';
+    a.click();
+    URL.revokeObjectURL(a.href);
+  });
+
+  // Changelog
+  const clEl = document.getElementById('changelog');
+  const entries = (changelog || []).filter(e => e.added.length || e.removed.length || e.ceased.length).slice(0, 6);
+  if (entries.length) {
+    document.getElementById('changelog-card').hidden = false;
+    clEl.innerHTML = entries.map(e => {
+      const li = (arr, cls, label) => arr.length
+        ? '<ul>' + arr.map(f => '<li><span class="tag ' + cls + '">' + label + '</span> ' +
+            esc(f.parent) + ' &mdash; ' + esc(f.name) + ' <span class="mono muted">' + esc(f.isin) + '</span></li>').join('') + '</ul>'
+        : '';
+      return '<div class="chg"><h3>' + fmt(e.date) + ' <span class="muted">(' + esc(e.sourceFile) + ')</span></h3>' +
+        li(e.added, 'add', 'Added') + li(e.ceased, 'cease', 'Ceased') + li(e.removed, 'rem', 'Removed') + '</div>';
+    }).join('');
+  }
+
+  apply();
+})();
+</script>
+</body>
+</html>

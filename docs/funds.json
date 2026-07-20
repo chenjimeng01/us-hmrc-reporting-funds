@@ -1,0 +1,5702 @@
+[
+ {
+  "ref": "T0272",
+  "parent": "21Shares 2x Long Dogecoin ETF",
+  "classRef": "T0272-0001",
+  "name": "Share class",
+  "isin": "US53656G1756",
+  "cusip": null,
+  "from": "2025-11-20",
+  "ceased": null
+ },
+ {
+  "ref": "T0273",
+  "parent": "21Shares 2x Long Sui ETF",
+  "classRef": "T0273-0001",
+  "name": "Share class",
+  "isin": "US53656G1673",
+  "cusip": null,
+  "from": "2025-12-04",
+  "ceased": null
+ },
+ {
+  "ref": "T0267",
+  "parent": "21Shares Ethereum ETF",
+  "classRef": "T0267-0001",
+  "name": "Share class",
+  "isin": "US04071F1021",
+  "cusip": null,
+  "from": "2025-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "T0271",
+  "parent": "21Shares FTSE Crypto 10 ex-BTC Index ETF",
+  "classRef": "T0271-0001",
+  "name": "Share class",
+  "isin": "US53656H7778",
+  "cusip": null,
+  "from": "2025-11-13",
+  "ceased": null
+ },
+ {
+  "ref": "T0270",
+  "parent": "21Shares FTSE Crypto 10 Index ETF",
+  "classRef": "T0270-0001",
+  "name": "Share class",
+  "isin": "US53656H7851",
+  "cusip": null,
+  "from": "2025-11-13",
+  "ceased": null
+ },
+ {
+  "ref": "T0269",
+  "parent": "21Shares Solana ETF",
+  "classRef": "T0269-0001",
+  "name": "Share class",
+  "isin": "US90137M1080",
+  "cusip": null,
+  "from": "2025-11-19",
+  "ceased": null
+ },
+ {
+  "ref": "T0268",
+  "parent": "21Shares XRP ETF",
+  "classRef": "T0268-0001",
+  "name": "Share class",
+  "isin": "US90137T1034",
+  "cusip": null,
+  "from": "2025-12-11",
+  "ceased": null
+ },
+ {
+  "ref": "A0636",
+  "parent": "AB Active ETFs, Inc.",
+  "classRef": "A0636-0001",
+  "name": "AB Emerging Markets Opportunities - ETF",
+  "isin": "US00039J7809",
+  "cusip": null,
+  "from": "2025-06-18",
+  "ceased": null
+ },
+ {
+  "ref": "A0622",
+  "parent": "abrdn ETFs",
+  "classRef": "A0622-0001",
+  "name": "abrdn Bloomberg All Commodity Strategy K-1 Free ETF",
+  "isin": "US0032611040",
+  "cusip": null,
+  "from": "2025-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0612",
+  "parent": "Advisors Inner Circle Fund III (The)",
+  "classRef": "A0612-0003",
+  "name": "Brown Advisory Flexible Equity ETF",
+  "isin": "US00775Y3229",
+  "cusip": null,
+  "from": "2024-11-15",
+  "ceased": null
+ },
+ {
+  "ref": "A0612",
+  "parent": "Advisors Inner Circle Fund III (The)",
+  "classRef": "A0612-0004",
+  "name": "Brown Advisory International Value Select ETF",
+  "isin": "US00775Y2494",
+  "cusip": null,
+  "from": "2026-02-25",
+  "ceased": null
+ },
+ {
+  "ref": "A0612",
+  "parent": "Advisors Inner Circle Fund III (The)",
+  "classRef": "A0612-0002",
+  "name": "Brown Advisory Sustainable Growth ETF",
+  "isin": "US00775Y2643",
+  "cusip": null,
+  "from": "2025-06-16",
+  "ceased": null
+ },
+ {
+  "ref": "A0612",
+  "parent": "Advisors Inner Circle Fund III (The)",
+  "classRef": "A0612-0001",
+  "name": "Brown Advisory Sustainable Value ETF",
+  "isin": "US00775Y2726",
+  "cusip": null,
+  "from": "2025-06-16",
+  "ceased": null
+ },
+ {
+  "ref": "A0541",
+  "parent": "AG Twin Brook Capital Income Fund",
+  "classRef": "A0541-0001",
+  "name": "AG Twin Brook Capital Income Fund - Class I Shares",
+  "isin": "US00840T1007",
+  "cusip": null,
+  "from": "2023-03-01",
+  "ceased": "2024-12-31"
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
+  "classRef": "A0538-0004",
+  "name": "Avantis Emerging Markets Equity ETF",
+  "isin": "US0250726041",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
+  "classRef": "A0538-0003",
+  "name": "Avantis International Equity ETF",
+  "isin": "US0250727031",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
+  "classRef": "A0538-0006",
+  "name": "Avantis Responsible Emerging Markets Equity ETF",
+  "isin": "US0250723154",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
+  "classRef": "A0538-0007",
+  "name": "Avantis Responsible International Equity ETF",
+  "isin": "US0250722990",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
+  "classRef": "A0538-0005",
+  "name": "Avantis Responsible U.S. Equity ETF",
+  "isin": "US0250722818",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
+  "classRef": "A0538-0008",
+  "name": "Avantis Short-Term Fixed Income ETF",
+  "isin": "US0250726876",
+  "cusip": null,
+  "from": "2023-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
+  "classRef": "A0538-0002",
+  "name": "Avantis US Equity ETF",
+  "isin": "US0250728856",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
+  "classRef": "A0538-0001",
+  "name": "Avantis US Small Cap Value ETF",
+  "isin": "US0250728773",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0594",
+  "parent": "AQR Funds",
+  "classRef": "A0594-0001",
+  "name": "AQR Managed Futures Strategy Fund - Class I",
+  "isin": "US00203H8593",
+  "cusip": null,
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0594",
+  "parent": "AQR Funds",
+  "classRef": "A0594-0002",
+  "name": "AQR Managed Futures Strategy Fund - Class R6",
+  "isin": "US00191K6091",
+  "cusip": null,
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0611",
+  "parent": "ARK 21Shares Bitcoin ETF",
+  "classRef": "A0611-0001",
+  "name": "Share class",
+  "isin": "US0409191022",
+  "cusip": null,
+  "from": "2025-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0155",
+  "parent": "Baron Select Funds",
+  "classRef": "D0155-0001",
+  "name": "Baron Global Opportunity Fund - Institutional Share Class",
+  "isin": "US06828M8358",
+  "cusip": null,
+  "from": "2026-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "B0251",
+  "parent": "Bernstein Fund Inc",
+  "classRef": "B0251-0002",
+  "name": "International Strategic Equities Portfolio - Advisor",
+  "isin": "US0855674026",
+  "cusip": null,
+  "from": "2020-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "B0251",
+  "parent": "Bernstein Fund Inc",
+  "classRef": "B0251-0001",
+  "name": "International Strategic Equities Portfolio - SCB",
+  "isin": "US0855671055",
+  "cusip": null,
+  "from": "2020-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "B0278",
+  "parent": "BondBloxx ETF Trust",
+  "classRef": "B0278-0005",
+  "name": "BondBloxx BBB Rated 1-5 Year Corporate Bond ETF",
+  "isin": "US90789C7544",
+  "cusip": null,
+  "from": "2024-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "B0278",
+  "parent": "BondBloxx ETF Trust",
+  "classRef": "B0278-0002",
+  "name": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
+  "isin": "US09789C8617",
+  "cusip": null,
+  "from": "2022-09-13",
+  "ceased": null
+ },
+ {
+  "ref": "B0278",
+  "parent": "BondBloxx ETF Trust",
+  "classRef": "B0278-0001",
+  "name": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
+  "isin": "US09789C7882",
+  "cusip": null,
+  "from": "2022-09-13",
+  "ceased": null
+ },
+ {
+  "ref": "B0278",
+  "parent": "BondBloxx ETF Trust",
+  "classRef": "B0278-0003",
+  "name": "BondBloxx Bloomberg Ten Year Target Duration US Treasury ETF",
+  "isin": "US09789C8120",
+  "cusip": null,
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "B0278",
+  "parent": "BondBloxx ETF Trust",
+  "classRef": "B0278-0004",
+  "name": "BondBloxx IR+M Tax-Aware Short Duration ETF",
+  "isin": "US09789C7213",
+  "cusip": null,
+  "from": "2024-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "B0278",
+  "parent": "BondBloxx ETF Trust",
+  "classRef": "B0278-0006",
+  "name": "BondBloxx Private Credit CLO ETF",
+  "isin": "US09789C6710",
+  "cusip": null,
+  "from": "2024-12-02",
+  "ceased": null
+ },
+ {
+  "ref": "C0264",
+  "parent": "Cape Ann Global Developing Markets Fund",
+  "classRef": "C0264-0001",
+  "name": "Cape Ann Global Developing Markets Fund",
+  "isin": "US1392001095",
+  "cusip": null,
+  "from": "2017-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "C0339",
+  "parent": "Cape Ann Perivallon Fund",
+  "classRef": "C0339-0001",
+  "name": "Cape Ann Perivallon Fund",
+  "isin": "US13920L1035",
+  "cusip": null,
+  "from": "2021-02-17",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0018",
+  "name": "DFA Commodity Strategy Portfolio",
+  "isin": "US23320G4635",
+  "cusip": "23320G463",
+  "from": "2010-11-09",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0024",
+  "name": "DFA Emerging Markets Small Cap Portfolio - Institutional Class",
+  "isin": "US2332036118",
+  "cusip": "233203611",
+  "from": "2016-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0023",
+  "name": "DFA Emerging Markets Value Portfolio - Institutional Class",
+  "isin": "US2332035870",
+  "cusip": "233203587",
+  "from": "2016-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0014",
+  "name": "DFA Five-Year Global Fixed Income Portfolio",
+  "isin": "US2332038841",
+  "cusip": "233203884",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0035",
+  "name": "DFA Global Core Plus Fixed Income Portfolio - Share Class",
+  "isin": "US25239Y3861",
+  "cusip": "252-39Y-386",
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0036",
+  "name": "DFA Global Core Plus Real Return Portfolio - Institutional Class",
+  "isin": "US25239Y2954",
+  "cusip": "25239Y295",
+  "from": "2021-04-26",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0019",
+  "name": "DFA Global Real Estate Securities Portfolio",
+  "isin": "US23320G5541",
+  "cusip": "23320G554",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0033",
+  "name": "DFA Global Sustainability Fixed Income Portfolio - Institutional Class",
+  "isin": "US25239Y3606",
+  "cusip": "25239Y360",
+  "from": "2018-11-06",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0015",
+  "name": "DFA Inflation Protected Securities Portfolio",
+  "isin": "US2332033552",
+  "cusip": "233203355",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0032",
+  "name": "DFA Intermediate Government Fixed Income Portfolio - Institutional Class",
+  "isin": "US2332038767",
+  "cusip": "233203876",
+  "from": "2018-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0001",
+  "name": "DFA International Real Estate Securities Portfolio",
+  "isin": "US2332033487",
+  "cusip": "233203348",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0008",
+  "name": "DFA International Small Cap Value Portfolio",
+  "isin": "US2332037363",
+  "cusip": "233203736",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0016",
+  "name": "DFA International Small Company Portfolio",
+  "isin": "US2332036290",
+  "cusip": "233203629",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0030",
+  "name": "DFA International Vector Equity Portfolio - Share class",
+  "isin": "US23320G5392",
+  "cusip": "23320G539",
+  "from": "2017-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0028",
+  "name": "DFA Investment Grade Portfolio - Share class",
+  "isin": "US23320G4486",
+  "cusip": "23320G448",
+  "from": "2017-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0009",
+  "name": "DFA One-Year Fixed Income Portfolio",
+  "isin": "US2332036035",
+  "cusip": "233203603",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0010",
+  "name": "DFA Real Estate Securities Portfolio",
+  "isin": "US2332038353",
+  "cusip": "233203835",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0002",
+  "name": "DFA Selectively Hedged Global Fixed Income Portfolio",
+  "isin": "US2332032232",
+  "cusip": "233203223",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0021",
+  "name": "DFA Short-Duration Real Return Portfolio - Institutional Class",
+  "isin": "US25239Y5767",
+  "cusip": "25239Y576",
+  "from": "2014-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0003",
+  "name": "DFA Short-Term Extended Quality Portfolio - Institutional Class Shares",
+  "isin": "US23320G5210",
+  "cusip": "23320G521",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0022",
+  "name": "DFA Two-Year Global Fixed Income Portfolio - Institutional Class",
+  "isin": "US2332036456",
+  "cusip": "233203645",
+  "from": "2014-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0020",
+  "name": "Emerging Markets Core Equity Portfolio",
+  "isin": "US2332034212",
+  "cusip": "233203421",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0031",
+  "name": "Emerging Markets Sustainability Core 1 Portfolio Share Class",
+  "isin": "US25239Y3788",
+  "cusip": "25239Y378",
+  "from": "2018-03-27",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0007",
+  "name": "International Core Equity Portfolio",
+  "isin": "US2332033719",
+  "cusip": "233203371",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0013",
+  "name": "International Sustainability Core 1 Portfolio",
+  "isin": "US2332031994",
+  "cusip": "233203199",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0026",
+  "name": "Large Cap International Portfolio - Institutional share class",
+  "isin": "US2332038684",
+  "cusip": "233203868",
+  "from": "2017-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0034",
+  "name": "U.S. Large Cap Value Portfolio - Institutional Class Shares",
+  "isin": "US2332038270",
+  "cusip": "233203827",
+  "from": "2019-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0027",
+  "name": "US Small Cap Portfolio - Institutional share class",
+  "isin": "US2332038437",
+  "cusip": "233203843",
+  "from": "2017-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0012",
+  "name": "US Sustainability Core 1 Portfolio",
+  "isin": "US2332032158",
+  "cusip": "233203215",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0027",
+  "parent": "DFA Investment Dimensions Group Inc",
+  "classRef": "D0027-0025",
+  "name": "World Core Equity Portfolio - Institutional Class",
+  "isin": "US25239Y1055",
+  "cusip": "25239Y105",
+  "from": "2016-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0035",
+  "name": "Dimensional California Municipal Bond ETF - Share class",
+  "isin": "US25434V6332",
+  "cusip": "25434V633",
+  "from": "2023-06-26",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0014",
+  "name": "Dimensional Core Fixed Income ETF - Share class",
+  "isin": "US25434V8726",
+  "cusip": null,
+  "from": "2021-11-15",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0001",
+  "name": "Dimensional Emerging Core Equity Market ETF",
+  "isin": "US25434V3024",
+  "cusip": "25434V302",
+  "from": "2020-12-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0027",
+  "name": "Dimensional Emerging Markets Core Equity 2 ETF - Share class",
+  "isin": "US25434V7322",
+  "cusip": "25434V732",
+  "from": "2022-04-26",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0045",
+  "name": "Dimensional Emerging Markets ex China Core Equity ETF - Share class",
+  "isin": "US25434V5342",
+  "cusip": null,
+  "from": "2024-10-31",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0025",
+  "name": "Dimensional Emerging Markets High Profitability ETF - Share class",
+  "isin": "US25434V7579",
+  "cusip": "25434V757",
+  "from": "2022-04-26",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0029",
+  "name": "Dimensional Emerging Markets Sustainability Core 1 ETF - Share Class",
+  "isin": "US25434V6829",
+  "cusip": "25434V682",
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0026",
+  "name": "Dimensional Emerging Markets Value ETF - Share class",
+  "isin": "US25434V7405",
+  "cusip": "25434V740",
+  "from": "2022-04-26",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0040",
+  "name": "Dimensional Global Core Plus Fixed Income ETF - Share class",
+  "isin": "US25434V5839",
+  "cusip": "25434V583",
+  "from": "2023-11-07",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0042",
+  "name": "Dimensional Global Credit ETF - Share class",
+  "isin": "US25434V5672",
+  "cusip": "25434V567",
+  "from": "2023-11-07",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0041",
+  "name": "Dimensional Global ex US Core Fixed Income ETF - share class",
+  "isin": "US25434F5755",
+  "cusip": "25434F575",
+  "from": "2023-11-07",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0033",
+  "name": "Dimensional Global Real Estate ETF - Share class",
+  "isin": "US25434V6589",
+  "cusip": "25434V658",
+  "from": "2022-12-06",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0030",
+  "name": "Dimensional Global Sustainability Fixed Income ETF - Share class",
+  "isin": "US25434V6746",
+  "cusip": "25434V674",
+  "from": "2022-11-15",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0015",
+  "name": "Dimensional Inflation-Protected Securities ETF - Share class",
+  "isin": "US25434V8569",
+  "cusip": "25434V856",
+  "from": "2021-11-15",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0021",
+  "name": "Dimensional International Core Equity 2 ETF - Share class",
+  "isin": "US25434V7991",
+  "cusip": "25434V79",
+  "from": "2022-03-23",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0002",
+  "name": "Dimensional International Core Equity Market ETF",
+  "isin": "US25434V2034",
+  "cusip": "25434V203",
+  "from": "2020-11-17",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0023",
+  "name": "Dimensional International High Profitability ETF - Share class",
+  "isin": "US25434V7652",
+  "cusip": "25434V765",
+  "from": "2022-03-23",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0024",
+  "name": "Dimensional International Small Cap ETF - Share class",
+  "isin": "US25434V7736",
+  "cusip": "25434V773",
+  "from": "2022-03-23",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0022",
+  "name": "Dimensional International Small Cap Value ETF - Share class",
+  "isin": "US25434V7819",
+  "cusip": "25434V781",
+  "from": "2022-03-23",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0031",
+  "name": "Dimensional International Sustainability Core 1 ETF - Share class",
+  "isin": "US25434V6902",
+  "cusip": "25434V690",
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0008",
+  "name": "Dimensional International Value ETF",
+  "isin": "US25434V8072",
+  "cusip": "25434V807",
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0044",
+  "name": "Dimensional International Vector Equity ETF - Share class",
+  "isin": "US25434V5425",
+  "cusip": null,
+  "from": "2024-09-12",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0016",
+  "name": "Dimensional National Municipal Bond ETF - Share class",
+  "isin": "US25434V8494",
+  "cusip": "25434V872",
+  "from": "2021-11-15",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0017",
+  "name": "Dimensional Short-Duration Fixed Income ETF -  Share class",
+  "isin": "US25434V8643",
+  "cusip": "25434V864",
+  "from": "2021-11-15",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0004",
+  "name": "Dimensional U.S. Core Equity 2 ETF",
+  "isin": "US25434V7082",
+  "cusip": "25434V708",
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0003",
+  "name": "Dimensional U.S. Core Equity Market ETF",
+  "isin": "US25434V1044",
+  "cusip": "25434V104",
+  "from": "2020-11-17",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0006",
+  "name": "Dimensional U.S. Equity ETF",
+  "isin": "US25434V4014",
+  "cusip": "25434V401",
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0007",
+  "name": "Dimensional U.S. Small Cap ETF",
+  "isin": "US25434V5003",
+  "cusip": "25434V500",
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0009",
+  "name": "Dimensional U.S. Targeted Value ETF",
+  "isin": "US25434V6092",
+  "cusip": "25434V609",
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0036",
+  "name": "Dimensional Ultrashort Fixed Income ETF - Share class",
+  "isin": "US25434V5912",
+  "cusip": "25434V591",
+  "from": "2023-09-26",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0037",
+  "name": "Dimensional US Core Equity 1 ETF - Share class",
+  "isin": "US25434V6258",
+  "cusip": null,
+  "from": "2023-09-12",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0019",
+  "name": "Dimensional US High Profitability ETF -  Share class",
+  "isin": "US25434V8312",
+  "cusip": "25434V831",
+  "from": "2022-02-23",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0034",
+  "name": "Dimensional US Large Cap Value ETF - Share class",
+  "isin": "US25434V6662",
+  "cusip": "25434V666",
+  "from": "2022-12-06",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0039",
+  "name": "Dimensional US Large Cap Vector ETF - Share class",
+  "isin": "US25434V6415",
+  "cusip": "25434V641",
+  "from": "2023-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0028",
+  "name": "Dimensional US Marketwide Value ETF - Share class",
+  "isin": "US25434V7249",
+  "cusip": "25434V724",
+  "from": "2021-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0020",
+  "name": "Dimensional US Real Estate ETF -  Share class",
+  "isin": "US25434V8239",
+  "cusip": "25434V823",
+  "from": "2022-02-23",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0018",
+  "name": "Dimensional US Small Cap Value ETF -  Share class",
+  "isin": "US25434V8155",
+  "cusip": "25434V815",
+  "from": "2022-02-23",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0032",
+  "name": "Dimensional US Sustainability Core 1 ETF - Share class",
+  "isin": "US25434V7165",
+  "cusip": "25434V716",
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0043",
+  "name": "Dimensional US Vector Equity ETF - Share class",
+  "isin": "US25434V5599",
+  "cusip": "25434V559",
+  "from": "2024-09-12",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0038",
+  "name": "Dimensional World Equity ETF - Share class",
+  "isin": "US25434V6175",
+  "cusip": null,
+  "from": "2023-09-26",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0005",
+  "name": "Dimensional World ex U.S. Core Equity 2 ETF",
+  "isin": "US25434V8809",
+  "cusip": "25434V880",
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0010",
+  "name": "Dimensionional Inflation Protected Securities ETF",
+  "isin": "US25434V8569",
+  "cusip": "25434V856",
+  "from": "To Be Confirmed",
+  "ceased": null
+ },
+ {
+  "ref": "D0026",
+  "parent": "Dimensional Investment Group Inc.",
+  "classRef": "D0026-0002",
+  "name": "DFA Global 60/40 Portfolio Class I",
+  "isin": "US25434D6581",
+  "cusip": "25434D658",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0026",
+  "parent": "Dimensional Investment Group Inc.",
+  "classRef": "D0026-0001",
+  "name": "DFA Global Equity Portfolio Class I",
+  "isin": "US25434D6748",
+  "cusip": "25434D674",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "D0026",
+  "parent": "Dimensional Investment Group Inc.",
+  "classRef": "D0026-0004",
+  "name": "US Large Company Portfolio - Institutional Class",
+  "isin": "US25434D8231",
+  "cusip": "25434D823",
+  "from": "2014-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "E0242",
+  "parent": "Elm Market Navigator ETF",
+  "classRef": "E0242-0001",
+  "name": "Elm Market Navigator ETF",
+  "isin": "US81752T4296",
+  "cusip": null,
+  "from": "2025-02-11",
+  "ceased": null
+ },
+ {
+  "ref": "F0003",
+  "parent": "Fairholme Funds Inc",
+  "classRef": "F0003-0001",
+  "name": "The Fairholme Allocation Fund",
+  "isin": "US3048714030",
+  "cusip": null,
+  "from": "2010-12-01",
+  "ceased": "2023-08-31"
+ },
+ {
+  "ref": "F0003",
+  "parent": "Fairholme Funds Inc",
+  "classRef": "F0003-0002",
+  "name": "The Fairholme Focused Income Fund",
+  "isin": "US3048713040",
+  "cusip": null,
+  "from": "2010-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0003",
+  "parent": "Fairholme Funds Inc",
+  "classRef": "F0003-0003",
+  "name": "The Fairholme Fund",
+  "isin": "US3048711069",
+  "cusip": null,
+  "from": "2009-12-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0185",
+  "parent": "First American Funds, Inc.",
+  "classRef": "F0185-0001",
+  "name": "Government Obligations Fund - Class Z",
+  "isin": "US31846V5672",
+  "cusip": null,
+  "from": "2023-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0185",
+  "parent": "First American Funds, Inc.",
+  "classRef": "F0185-0002",
+  "name": "Treasury Obligations Fund - Class Z",
+  "isin": "US31846V5425",
+  "cusip": null,
+  "from": "2023-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0001",
+  "name": "First Trust Consumer Discretionary AlphaDEX\u00ae Fund",
+  "isin": "US33734X1019",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0002",
+  "name": "First Trust Consumer Staples AlphaDEX\u00ae Fund",
+  "isin": "US33734X1191",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0003",
+  "name": "First Trust Energy AlphaDEX \u00ae Fund",
+  "isin": "US33734X1274",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0004",
+  "name": "First Trust Financials AlphaDEX \u00ae Fund",
+  "isin": "US33734X1357",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0005",
+  "name": "First Trust Health Care AlphaDEX \u00ae Fund",
+  "isin": "US33734X1431",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0006",
+  "name": "First Trust Industrials/Producer Durables AlphaDEX\u00ae Fund",
+  "isin": "US33734X1506",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0007",
+  "name": "First Trust Large Cap Core AlphaDEX\u00ae Fund",
+  "isin": "US33734K1097",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0008",
+  "name": "First Trust Large Cap Growth AlphaDEX\u00ae Fund",
+  "isin": "US33735K1088",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0009",
+  "name": "First Trust Large Cap Value AlphaDEX \u00ae Fund",
+  "isin": "US33735J1016",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0010",
+  "name": "First Trust Materials AlphaDEX\u00ae  Fund",
+  "isin": "US33734X1688",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0011",
+  "name": "First Trust Mega Cap AlphaDEX\u00ae Fund",
+  "isin": "US33737M5085",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": "2020-12-14"
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0012",
+  "name": "First Trust Mid Cap Core AlphaDEX \u00ae Fund",
+  "isin": "US33735B1089",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0013",
+  "name": "First Trust Mid Cap Growth AlphaDEX\u00ae  Fund",
+  "isin": "US33737M1027",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0014",
+  "name": "First Trust Mid Cap Value AlphaDEX\u00ae  Fund",
+  "isin": "US33737M2017",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0015",
+  "name": "First Trust Multi Cap Growth AlphaDEX\u00ae  Fund",
+  "isin": "US33733F1012",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0016",
+  "name": "First Trust Multi Cap Value AlphaDEX\u00ae  Fund",
+  "isin": "US33733C1080",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0017",
+  "name": "First Trust Small Cap Core AlphaDEX\u00ae  Fund",
+  "isin": "US33734Y1091",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0018",
+  "name": "First Trust Small Cap Growth AlphaDEX\u00ae  Fund",
+  "isin": "US33737M3007",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0019",
+  "name": "First Trust Small Cap Value AlphaDEX\u00ae  Fund",
+  "isin": "US33737M4096",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0020",
+  "name": "First Trust Technology AlphaDEX\u00ae  Fund",
+  "isin": "US33734X1761",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0082",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund",
+  "classRef": "F0082-0021",
+  "name": "First Trust Utilities AlphaDEX \u00ae Fund",
+  "isin": "US33734X1845",
+  "cusip": null,
+  "from": "2014-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0003",
+  "name": "First Trust Asia Pacific ex- Japan AlphaDEX\u00ae Fund",
+  "isin": "US33737J1097",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0012",
+  "name": "First Trust Australia AlphaDEX\u00ae Fund",
+  "isin": "US33737J2160",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": "2020-11-02"
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0006",
+  "name": "First Trust Brazil AlphaDEX\u00ae Fund",
+  "isin": "US33737J1337",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0011",
+  "name": "First Trust Canada AlphaDEX\u00ae Fund",
+  "isin": "US33737J2087",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": "2020-11-02"
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0007",
+  "name": "First Trust China AlphaDEX\u00ae Fund",
+  "isin": "US33737J1410",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0001",
+  "name": "First Trust Developed Markets ex-US AlphaDEX\u00ae Fund",
+  "isin": "US33737J1741",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0017",
+  "name": "First Trust Developed Markets ex-US Small Cap AlphaDEX\u00ae Fund",
+  "isin": "US33737J4067",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0002",
+  "name": "First Trust Emerging Markets AlphaDEX\u00ae Fund",
+  "isin": "US33737J1824",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0018",
+  "name": "First Trust Emerging Markets Small Cap AlphaDEX\u00ae Fund",
+  "isin": "US33737J3077",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0004",
+  "name": "First Trust Europe AlphaDEX\u00ae Fund",
+  "isin": "US33737J1170",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0019",
+  "name": "First Trust Eurozone AlphaDEX\u00ae ETF",
+  "isin": "US33737J5056",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0010",
+  "name": "First Trust Germany AlphaDEX\u00ae Fund",
+  "isin": "US33737J1907",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0015",
+  "name": "First Trust Hong Kong AlphaDEX\u00ae Fund",
+  "isin": "US33737J2400",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": "2020-11-02"
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0014",
+  "name": "First Trust India NIFTY 50 Equal Weight ETF",
+  "isin": "US33737J8027",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0008",
+  "name": "First Trust Japan AlphaDEX\u00ae Fund",
+  "isin": "US33737J1584",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0005",
+  "name": "First Trust Latin America AlphaDEX\u00ae Fund",
+  "isin": "US33737J1253",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0009",
+  "name": "First Trust South Korea AlphaDEX\u00ae Fund",
+  "isin": "US33737J1667",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": "2020-11-02"
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0016",
+  "name": "First Trust Switzerland AlphaDEX\u00ae Fund",
+  "isin": "US33737J2327",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0120",
+  "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+  "classRef": "F0120-0013",
+  "name": "First Trust United Kingdom AlphaDEX\u00ae Fund",
+  "isin": "US33737J2244",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0023",
+  "name": "First Trust Bloomberg Inflation Sensitive Equity ETF",
+  "isin": "US33733E8158",
+  "cusip": null,
+  "from": "2023-03-13",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0001",
+  "name": "First Trust Capital Strength ETF",
+  "isin": "US33733E1047",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0002",
+  "name": "First Trust CBOE \u00ae S &P 500\u00ae VIX\u00ae Tail Hedge Fund",
+  "isin": "US33733E6095",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": "2017-12-31"
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0005",
+  "name": "First Trust Chindia ETF",
+  "isin": "US33733A1025",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": "2023-01-20"
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0020",
+  "name": "First Trust Dow 30 Equal Weight ETF",
+  "isin": "US33733A2015",
+  "cusip": null,
+  "from": "2020-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0003",
+  "name": "First Trust Dow Jones Internet Index Fund",
+  "isin": "US33733E3027",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0004",
+  "name": "First Trust Dow Jones Select MicroCap Index Fund",
+  "isin": "US33718M1053",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0024",
+  "name": "First Trust Growth Strength ETF",
+  "isin": "US33733E8232",
+  "cusip": null,
+  "from": "2022-10-25",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0025",
+  "name": "First Trust Indxx Aerospace & Defense ETF",
+  "isin": "US33733E8315",
+  "cusip": null,
+  "from": "2022-10-25",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0008",
+  "name": "First Trust Morningstar Dividend Leaders Index Fund",
+  "isin": "US3369171091",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0011",
+  "name": "First Trust NASDAQ-100 Equal Weighted Index Fund",
+  "isin": "US3373441050",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0012",
+  "name": "First Trust NASDAQ-100 Ex-Technology Sector Index Fund",
+  "isin": "US33733E4017",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0013",
+  "name": "First Trust NASDAQ-100 Technology Sector Index Fund",
+  "isin": "US3373451026",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0009",
+  "name": "First Trust NASDAQ\u00ae ABA Community Bank Index Fund",
+  "isin": "US33736Q1040",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0010",
+  "name": "First Trust NASDAQ\u00ae Clean Edge\u00aeGreen Energy Index Fund",
+  "isin": "US33733E5006",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0007",
+  "name": "First Trust Natural Gas ETF",
+  "isin": "US33733E8075",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0014",
+  "name": "First Trust NYSE Arca Biotechnology Index Fund",
+  "isin": "US33733E2037",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0015",
+  "name": "First Trust S&P REIT Index Fund",
+  "isin": "US33734G1085",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0016",
+  "name": "First Trust Total US Market AlphaDEX\u00aeETF",
+  "isin": "US33733E7085",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": "2017-12-31"
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0017",
+  "name": "First Trust US Equity Opportunities ETF",
+  "isin": "US3369201039",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0018",
+  "name": "First Trust Value Line\u00ae 100 Exchange-Traded-Fund",
+  "isin": "US33735G1076",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": "2020-12-14"
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0019",
+  "name": "First Trust Value Line\u00ae Dividend Index Fund",
+  "isin": "US33734H1068",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0006",
+  "name": "First Trust Water ETF",
+  "isin": "US33733B1008",
+  "cusip": null,
+  "from": "2015-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0027",
+  "name": "First Trust WCM Developing World Equity ETF",
+  "isin": "US33733E7408",
+  "cusip": null,
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0026",
+  "name": "First Trust WCM International Equity ETF",
+  "isin": "US33733E7325",
+  "cusip": null,
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0021",
+  "name": "FT Vest Gold Strategy Quarterly Buffer ETF",
+  "isin": "US33733E8497",
+  "cusip": null,
+  "from": "2021-01-20",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0022",
+  "name": "FT Vest Gold Strategy Target Income ETF\u00ae",
+  "isin": "US33733E8562",
+  "cusip": null,
+  "from": "2021-03-02",
+  "ceased": null
+ },
+ {
+  "ref": "F0083",
+  "parent": "First Trust Exchange-Traded Fund",
+  "classRef": "F0083-0028",
+  "name": "FT Vest Laddered Autocallable Barrier & Income ETF",
+  "isin": "US33733E6905",
+  "cusip": null,
+  "from": "2026-02-24",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0002",
+  "name": "First Trust Alerian Disruptive Technology Real Estate ETF",
+  "isin": "US33736N1019",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0005",
+  "name": "First Trust Alerian U.S. NextGen Infrastructure ETF",
+  "isin": "US33736M1036",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0009",
+  "name": "First Trust BICK Index Fund",
+  "isin": "US33733H1077",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": "2023-07-21"
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0017",
+  "name": "First Trust Bloomberg Emerging Market Democracies ETF",
+  "isin": "US33734X7545",
+  "cusip": null,
+  "from": "2023-03-02",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0012",
+  "name": "First Trust Cloud Computing ETF",
+  "isin": "US33734X1928",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0003",
+  "name": "First Trust Dow Jones Global Select Dividend Index Fund",
+  "isin": "US33734X2009",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0016",
+  "name": "First Trust Dow Jones International Internet ETF",
+  "isin": "US33734X7701",
+  "cusip": null,
+  "from": "2020-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0004",
+  "name": "First Trust Global Wind Energy ETF",
+  "isin": "US33736G1067",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0008",
+  "name": "First Trust Indxx Global Agriculture ETF",
+  "isin": "US33734X8121",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0007",
+  "name": "First Trust Indxx Global Natural Resources Income ETF",
+  "isin": "US33734X8386",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0010",
+  "name": "First Trust Indxx NextG ETF",
+  "isin": "US33737K2050",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0013",
+  "name": "First Trust International Equity Opportunities ETF",
+  "isin": "US33734X8535",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0015",
+  "name": "First Trust IPOX\u00ae Europe Equity Opportunities ETF",
+  "isin": "US33734X7883",
+  "cusip": null,
+  "from": "2020-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0006",
+  "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund",
+  "isin": "US33737A1088",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0014",
+  "name": "First Trust NASDAQ Cybersecurity ETF",
+  "isin": "US33734X8469",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0011",
+  "name": "First Trust S-Network Future Vehicles & Technology ETF",
+  "isin": "US33734X3098",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0001",
+  "name": "First Trust STOXX European Select Dividend Index Fund",
+  "isin": "US33735T1097",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0121",
+  "parent": "First Trust Exchange-Traded Fund III",
+  "classRef": "F0121-0002",
+  "name": "First Trust Emerging Markets Local Currency Bond ETF",
+  "isin": "US33739P2020",
+  "cusip": null,
+  "from": "2017-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0121",
+  "parent": "First Trust Exchange-Traded Fund III",
+  "classRef": "F0121-0003",
+  "name": "First Trust Institutional Preferred Securities and Income ETF",
+  "isin": "US33739P8555",
+  "cusip": null,
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0121",
+  "parent": "First Trust Exchange-Traded Fund III",
+  "classRef": "F0121-0004",
+  "name": "First Trust Long/Short Equity ETF",
+  "isin": "US33739P1030",
+  "cusip": null,
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0121",
+  "parent": "First Trust Exchange-Traded Fund III",
+  "classRef": "F0121-0001",
+  "name": "First Trust Preferred Securities and Income ETF",
+  "isin": "US33739E1082",
+  "cusip": null,
+  "from": "2017-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0007",
+  "name": "First Trust EIP Carbon Impact ETF",
+  "isin": "US33738D7057",
+  "cusip": null,
+  "from": "2019-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0004",
+  "name": "First Trust Enhanced Short Maturity ETF",
+  "isin": "US33739Q4082",
+  "cusip": null,
+  "from": "2017-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0012",
+  "name": "First Trust Intermediate Duration Investment Grade Corporate ETF",
+  "isin": "US33738D7966",
+  "cusip": null,
+  "from": "2023-08-02",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0015",
+  "name": "First Trust Intermediate Government Opportunities ETF",
+  "isin": "US33738D8386",
+  "cusip": null,
+  "from": "2023-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0009",
+  "name": "First Trust Long Duration Opportunities ETF",
+  "isin": "US33738D6067",
+  "cusip": null,
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0006",
+  "name": "First Trust Low Duration Opportunities ETF",
+  "isin": "US33739Q2003",
+  "cusip": null,
+  "from": "2017-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0001",
+  "name": "First Trust North American Energy Infrastructure Fund",
+  "isin": "US33738D1019",
+  "cusip": null,
+  "from": "2014-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0002",
+  "name": "First Trust Senior Loan Fund",
+  "isin": "US33738D3098",
+  "cusip": null,
+  "from": "2014-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0010",
+  "name": "First Trust SSI Strategic Convertible Securities ETF",
+  "isin": "US33739Q5071",
+  "cusip": null,
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0005",
+  "name": "First Trust Strategic Income ETF",
+  "isin": "US33739Q3092",
+  "cusip": null,
+  "from": "2017-11-01",
+  "ceased": "2018-10-31"
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0003",
+  "name": "First Trust Tactical High Yield ETF",
+  "isin": "US33738D4088",
+  "cusip": null,
+  "from": "2014-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0011",
+  "name": "FT Energy Income Partners Strategy ETF",
+  "isin": "US33739Q8042",
+  "cusip": null,
+  "from": "2022-11-02",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0014",
+  "name": "FT Vest Dow Jones Internet & Target Income ETF",
+  "isin": "US33738D7545",
+  "cusip": null,
+  "from": "2024-03-20",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0008",
+  "name": "FT Vest S&P 500\u00ae Dividend Aristocrats Target Income ETF\u00ae",
+  "isin": "US33739Q7051",
+  "cusip": null,
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0016",
+  "name": "FT Vest SMID Rising Dividend Achievers Target Income ETF",
+  "isin": "US33738D8204",
+  "cusip": null,
+  "from": "2023-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0013",
+  "name": "FT Vest Technology Dividend Target Income ETF",
+  "isin": "US33738D8121",
+  "cusip": null,
+  "from": "2023-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0200",
+  "parent": "First Trust Exchange-Traded Fund V",
+  "classRef": "F0200-0001",
+  "name": "First Trust Managed Futures Strategy Fund",
+  "isin": "US33739G1031",
+  "cusip": null,
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0020",
+  "name": "First Trust Bloomberg R&D Leaders ETF",
+  "isin": "US33738R6210",
+  "cusip": null,
+  "from": "2024-04-30",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0021",
+  "name": "First Trust Bloomberg Shareholder Yield ETF",
+  "isin": "US33738R7614",
+  "cusip": null,
+  "from": "2024-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0004",
+  "name": "First Trust BuyWrite Income ETF",
+  "isin": "US33738R3084",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0011",
+  "name": "First Trust Dorsey Wright Dynamic Focus 5 ETF",
+  "isin": "US33738R8786",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0007",
+  "name": "First Trust Dorsey Wright Focus 5 ETF",
+  "isin": "US33738R6053",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0010",
+  "name": "First Trust Dorsey Wright International Focus 5 ETF",
+  "isin": "US33738R8869",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0009",
+  "name": "First Trust Dorsey Wright Momentum & Dividend ETF",
+  "isin": "US33738R6962",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0018",
+  "name": "First Trust Dorsey Wright Momentum & Low Volatility ETF",
+  "isin": "US33741L1089",
+  "cusip": null,
+  "from": "2023-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0017",
+  "name": "First Trust Dorsey Wright Momentum & Value ETF",
+  "isin": "US33741L2079",
+  "cusip": null,
+  "from": "2023-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0012",
+  "name": "First Trust Indxx Innovative Transaction & Process ETF",
+  "isin": "US33741X2018",
+  "cusip": null,
+  "from": "2020-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0015",
+  "name": "First Trust Indxx Medical Devices ETF",
+  "isin": "US33738R6392",
+  "cusip": null,
+  "from": "2022-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0014",
+  "name": "First Trust lnternational Developed Capital Strength ETF",
+  "isin": "US33738R6624",
+  "cusip": null,
+  "from": "2021-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0013",
+  "name": "First Trust Nasdaq Artificial Intelligence and Robotics ETF",
+  "isin": "US33738R7200",
+  "cusip": null,
+  "from": "2020-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0005",
+  "name": "First Trust Nasdaq BuyWrite Income ETF",
+  "isin": "US33738R4074",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0001",
+  "name": "First Trust NASDAQ Technology Dividend Index Fund",
+  "isin": "US33738R1187",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0019",
+  "name": "First Trust New Constructs Core Earnings Leaders ETF",
+  "isin": "US33738R5972",
+  "cusip": null,
+  "from": "2024-10-02",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0008",
+  "name": "First Trust RBA American Industrial Renaissance\u00ae ETF",
+  "isin": "US33738R7044",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0006",
+  "name": "First Trust Rising Dividend Achievers ETF",
+  "isin": "US33738R5063",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0003",
+  "name": "First Trust S&P International Dividend Aristocrats ETF",
+  "isin": "US33738R6889",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0016",
+  "name": "First Trust SMID Cap Rising Dividend Achievers ETF",
+  "isin": "US33741X1028",
+  "cusip": null,
+  "from": "2023-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0002",
+  "name": "Multi-Asset Diversified Income Index Fund",
+  "isin": "US33738R1005",
+  "cusip": null,
+  "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0123",
+  "parent": "First Trust Exchange-Traded Fund VII",
+  "classRef": "F0123-0002",
+  "name": "First Trust Alternative Absolute Return Strategy ETF",
+  "isin": "US33740Y1010",
+  "cusip": null,
+  "from": "2022-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0123",
+  "parent": "First Trust Exchange-Traded Fund VII",
+  "classRef": "F0123-0001",
+  "name": "First Trust Global Tactical Commodity Strategy Fund",
+  "isin": "US33739H1014",
+  "cusip": null,
+  "from": "2018-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0042",
+  "name": "First Trust Active Global Quality lncome ETF",
+  "isin": "US33740F3837",
+  "cusip": null,
+  "from": "2023-11-21",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0001",
+  "name": "First Trust CEF Income Opportunity ETF",
+  "isin": "US33740F4090",
+  "cusip": null,
+  "from": "2016-09-27",
+  "ceased": "2018-08-31"
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0005",
+  "name": "First Trust Expanded Technology ETF",
+  "isin": "US33740U8514",
+  "cusip": null,
+  "from": "2021-06-14",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0004",
+  "name": "First Trust Innovation Leaders ETF",
+  "isin": "US33740F5659",
+  "cusip": null,
+  "from": "2021-05-25",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0013",
+  "name": "First Trust Multi-Strategy Alternative ETF",
+  "isin": "US33740F4900",
+  "cusip": null,
+  "from": "2023-01-31",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0007",
+  "name": "First Trust Securitized Plus ETF",
+  "isin": "US33740U1097",
+  "cusip": null,
+  "from": "2021-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0006",
+  "name": "First Trust SkyBridge Crypto Industry and Digital Economy ETF",
+  "isin": "US33740F5402",
+  "cusip": null,
+  "from": "2021-09-29",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0009",
+  "name": "First Trust Smith Opportunistic Fixed Income ETF",
+  "isin": "US33740F8059",
+  "cusip": null,
+  "from": "2021-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0010",
+  "name": "First Trust Smith Unconstrained Bond ETF",
+  "isin": "US33740F8885",
+  "cusip": null,
+  "from": "2021-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0008",
+  "name": "First Trust TCW Emerging Markets Debt ETF",
+  "isin": "US33740U6047",
+  "cusip": null,
+  "from": "2021-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0012",
+  "name": "First Trust TCW ESG Premier Equity ETF",
+  "isin": "US33740U8779",
+  "cusip": null,
+  "from": "2021-09-01",
+  "ceased": "2022-11-01"
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0044",
+  "name": "FT Energy Income Partners Enhanced Income ETF",
+  "isin": "US33740F2763",
+  "cusip": null,
+  "from": "2023-12-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0043",
+  "name": "FT Raymond James Multicap Growth Equity ETF",
+  "isin": "US33740F3597",
+  "cusip": null,
+  "from": "2024-01-17",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0002",
+  "name": "FT Vest Laddered Buffer ETF",
+  "isin": "US33740F7556",
+  "cusip": null,
+  "from": "2020-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0003",
+  "name": "FT Vest Laddered Deep Buffer ETF",
+  "isin": "US33740U7037",
+  "cusip": null,
+  "from": "2021-01-20",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0011",
+  "name": "FT Vest Laddered Nasdaq Buffer ETF",
+  "isin": "US33740U7524",
+  "cusip": null,
+  "from": "2022-06-15",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0026",
+  "name": "FT Vest Nasdaq-100\u00ae Buffer ETF - December",
+  "isin": "US33740F6491",
+  "cusip": null,
+  "from": "2020-12-18",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0027",
+  "name": "FT Vest Nasdaq-100\u00ae Buffer ETF - June",
+  "isin": "US33740F5576",
+  "cusip": null,
+  "from": "2021-06-18",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0028",
+  "name": "FT Vest Nasdaq-100\u00ae Buffer ETF - March",
+  "isin": "US33740F5816",
+  "cusip": null,
+  "from": "2021-03-19",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0029",
+  "name": "FT Vest Nasdaq-100\u00ae Buffer ETF - September",
+  "isin": "US33740U8365",
+  "cusip": null,
+  "from": "2021-09-17",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0030",
+  "name": "FT Vest U.S. Equity Buffer ETF - April",
+  "isin": "US33740U8852",
+  "cusip": null,
+  "from": "2021-04-16",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0031",
+  "name": "FT Vest U.S. Equity Buffer ETF - August",
+  "isin": "US33740F8620",
+  "cusip": null,
+  "from": "2019-11-06",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0032",
+  "name": "FT Vest U.S. Equity Buffer ETF - December",
+  "isin": "US33740U5056",
+  "cusip": null,
+  "from": "2020-12-18",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0033",
+  "name": "FT Vest U.S. Equity Buffer ETF - February",
+  "isin": "US33740F7630",
+  "cusip": null,
+  "from": "2020-02-21",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0034",
+  "name": "FT Vest U.S. Equity Buffer ETF - January",
+  "isin": "US33740F6236",
+  "cusip": null,
+  "from": "2021-01-15",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0035",
+  "name": "FT Vest U.S. Equity Buffer ETF - July",
+  "isin": "US33740U2087",
+  "cusip": null,
+  "from": "2020-07-17",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0036",
+  "name": "FT Vest U.S. Equity Buffer ETF - June",
+  "isin": "US33740F7226",
+  "cusip": null,
+  "from": "2020-06-19",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0037",
+  "name": "FT Vest U.S. Equity Buffer ETF - March",
+  "isin": "US33740F5998",
+  "cusip": null,
+  "from": "2021-03-19",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0038",
+  "name": "FT Vest U.S. Equity Buffer ETF - May",
+  "isin": "US33740F7481",
+  "cusip": null,
+  "from": "2020-05-15",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0039",
+  "name": "FT Vest U.S. Equity Buffer ETF - November",
+  "isin": "US33740F8471",
+  "cusip": null,
+  "from": "2019-11-15",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0040",
+  "name": "FT Vest U.S. Equity Buffer ETF - October",
+  "isin": "US33740F6640",
+  "cusip": null,
+  "from": "2020-10-16",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0041",
+  "name": "FT Vest U.S. Equity Buffer ETF - September",
+  "isin": "US33740U3077",
+  "cusip": null,
+  "from": "2020-09-18",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0014",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - April",
+  "isin": "US33740U8027",
+  "cusip": null,
+  "from": "2021-04-16",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0015",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - August",
+  "isin": "US33740F8547",
+  "cusip": null,
+  "from": "2019-11-06",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0016",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - December",
+  "isin": "US33740U4067",
+  "cusip": null,
+  "from": "2020-12-08",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0017",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - February",
+  "isin": "US33740F7713",
+  "cusip": null,
+  "from": "2020-02-21",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0018",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - January",
+  "isin": "US33740F6319",
+  "cusip": null,
+  "from": "2021-01-15",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0019",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - July",
+  "isin": "US33740F6988",
+  "cusip": null,
+  "from": "2020-07-17",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0020",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - June",
+  "isin": "US33740F7143",
+  "cusip": null,
+  "from": "2020-06-19",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0021",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - March",
+  "isin": "US33740F6152",
+  "cusip": null,
+  "from": "2021-03-19",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0022",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - May",
+  "isin": "US33740F7309",
+  "cusip": null,
+  "from": "2020-05-15",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0023",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - November",
+  "isin": "US33740F8398",
+  "cusip": null,
+  "from": "2019-11-15",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0024",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - October",
+  "isin": "US33740F6723",
+  "cusip": null,
+  "from": "2020-10-16",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0025",
+  "name": "FT Vest U.S. Equity Deep Buffer ETF - September",
+  "isin": "US33740F6806",
+  "cusip": null,
+  "from": "2020-09-18",
+  "ceased": null
+ },
+ {
+  "ref": "F0057",
+  "parent": "Franklin Investors Securities Trust",
+  "classRef": "F0057-0001",
+  "name": "Franklin Floating Rate Daily Access Fund Advisor Class",
+  "isin": "US3536127810",
+  "cusip": null,
+  "from": "2012-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0099",
+  "parent": "Franklin Templeton ETF Trust",
+  "classRef": "F0099-0005",
+  "name": "Franklin Emerging Market Core Dividend Tilt Index ETF",
+  "isin": "US35473P2074",
+  "cusip": null,
+  "from": "2020-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0214",
+  "parent": "Fundsmith Equity ETF",
+  "classRef": "F0214-0001",
+  "name": "Fundsmith Equity ETF",
+  "isin": "US02110A4316",
+  "cusip": null,
+  "from": "2025-12-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0008",
+  "name": "Global MSCI X Next Emerging & Frontier ETF",
+  "isin": "US37950E2182",
+  "cusip": null,
+  "from": "2013-11-06",
+  "ceased": "2019-10-31"
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0003",
+  "name": "Global X Copper Miners ETF",
+  "isin": "US37954Y8306",
+  "cusip": null,
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0007",
+  "name": "Global X Guru Index ETF",
+  "isin": "US37950E3412",
+  "cusip": null,
+  "from": "2013-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0002",
+  "name": "Global X Lithium & Battery Tech ETF",
+  "isin": "US37954Y8553",
+  "cusip": null,
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0006",
+  "name": "Global X MSCI China Consumer Discretionary ETF (CHIQ)",
+  "isin": "US37950E4089",
+  "cusip": null,
+  "from": "2012-11-01",
+  "ceased": "2019-10-31"
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0010",
+  "name": "Global X MSCI Greece ETF",
+  "isin": "US37950E3669",
+  "cusip": null,
+  "from": "2018-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0011",
+  "name": "Global X Robotics & Artificial Intelligence ETF",
+  "isin": "US37954Y7159",
+  "cusip": null,
+  "from": "2018-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0004",
+  "name": "Global X Silver Miners ETF",
+  "isin": "US37954Y8488",
+  "cusip": null,
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0005",
+  "name": "Global X SuperDividend ETF (SDIV)",
+  "isin": "US37950E5490",
+  "cusip": null,
+  "from": "2012-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0009",
+  "name": "Global X SuperDividend\u2122 U.S. ETF",
+  "isin": "US37950E2919",
+  "cusip": null,
+  "from": "2013-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0080",
+  "parent": "Global X Funds",
+  "classRef": "G0080-0001",
+  "name": "Global X Uranium ETF",
+  "isin": "US37954Y8710",
+  "cusip": null,
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0254",
+  "parent": "Goehring & Rozencwajg Resources Fund",
+  "classRef": "G0254-0011",
+  "name": "Institutional Class Shares",
+  "isin": "US38035R2085",
+  "cusip": null,
+  "from": "2026-01-02",
+  "ceased": null
+ },
+ {
+  "ref": "G0039",
+  "parent": "Goldman Sachs Funds",
+  "classRef": "G0039-0036",
+  "name": "GS TAX-ADVANTAGED GLOBAL EQUITY PORTFOLIO - CLASS P",
+  "isin": "US38150B2363",
+  "cusip": null,
+  "from": "2024-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0261",
+  "parent": "Grayscale Bitcoin Trust (BTC)",
+  "classRef": "G0261-0001",
+  "name": "Grayscale Bitcoin Trust (BTC)",
+  "isin": "US3896371099",
+  "cusip": null,
+  "from": "2024-01-09",
+  "ceased": null
+ },
+ {
+  "ref": "G0264",
+  "parent": "Grayscale Ethereum Trust (ETH)",
+  "classRef": "G0264-0001",
+  "name": "Grayscale Ethereum Trust (ETH)",
+  "isin": "US3896381072",
+  "cusip": null,
+  "from": "2024-05-23",
+  "ceased": null
+ },
+ {
+  "ref": "G0280",
+  "parent": "Grayscale Solana Staking ETF",
+  "classRef": "G0280-0001",
+  "name": "Shares",
+  "isin": "US38965D1046",
+  "cusip": null,
+  "from": "2025-10-29",
+  "ceased": null
+ },
+ {
+  "ref": "H0154",
+  "parent": "Harbor ETF Trust",
+  "classRef": "H0154-0002",
+  "name": "Harbor Scientific Alpha High Yield ETF",
+  "isin": "US41151J1097",
+  "cusip": null,
+  "from": "2021-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "H0154",
+  "parent": "Harbor ETF Trust",
+  "classRef": "H0154-0001",
+  "name": "Harbor Scientific Alpha Income ETF",
+  "isin": "US41151J2087",
+  "cusip": null,
+  "from": "2021-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "H0192",
+  "parent": "HPS Corporate Capital Solutions Fund",
+  "classRef": "H0192-0002",
+  "name": "HPS Corporate Capital Solutions Fund - Class D",
+  "isin": "US4429311016",
+  "cusip": null,
+  "from": "2025-07-25",
+  "ceased": null
+ },
+ {
+  "ref": "H0192",
+  "parent": "HPS Corporate Capital Solutions Fund",
+  "classRef": "H0192-0003",
+  "name": "HPS Corporate Capital Solutions Fund - Class I",
+  "isin": "US4429312006",
+  "cusip": null,
+  "from": "2025-07-25",
+  "ceased": null
+ },
+ {
+  "ref": "H0156",
+  "parent": "HPS Corporate Lending Fund",
+  "classRef": "H0156-0001",
+  "name": "HPS Corporate Lending Fund - Class D",
+  "isin": "US40440V2043",
+  "cusip": null,
+  "from": "2022-02-03",
+  "ceased": null
+ },
+ {
+  "ref": "H0156",
+  "parent": "HPS Corporate Lending Fund",
+  "classRef": "H0156-0003",
+  "name": "HPS Corporate Lending Fund - Class F",
+  "isin": "US40440V4023",
+  "cusip": null,
+  "from": "2022-02-03",
+  "ceased": null
+ },
+ {
+  "ref": "H0156",
+  "parent": "HPS Corporate Lending Fund",
+  "classRef": "H0156-0002",
+  "name": "HPS Corporate Lending Fund - Class I",
+  "isin": "US40440V3033",
+  "cusip": null,
+  "from": "2022-02-03",
+  "ceased": null
+ },
+ {
+  "ref": "I0122",
+  "parent": "INFUSIVE\u00ae COMPOUNDING GLOBAL EQUITIES ETF",
+  "classRef": "I0122-0001",
+  "name": "Infusive Compounding Global Equities ETF",
+  "isin": "US45687D1063",
+  "cusip": "45687D 106",
+  "from": "2019-12-24",
+  "ceased": "2022-06-20"
+ },
+ {
+  "ref": "I0152",
+  "parent": "Invesco Actively Managed Exchange-Traded Fund Trust",
+  "classRef": "I0152-0001",
+  "name": "Invesco AAA CLO Floating Rate Note ETF",
+  "isin": "US46090A7211",
+  "cusip": null,
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0148",
+  "parent": "Invesco Exchange-Traded Fund Trust",
+  "classRef": "I0148-0001",
+  "name": "Invesco S&P 500 Equal Weight ETF",
+  "isin": "US46137V3574",
+  "cusip": null,
+  "from": "2023-05-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0148",
+  "parent": "Invesco Exchange-Traded Fund Trust",
+  "classRef": "I0148-0002",
+  "name": "Invesco S&P 500 Equal Weight Technology ETF",
+  "isin": "US46137V2824",
+  "cusip": null,
+  "from": "2023-05-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0005",
+  "name": "Invesco China Technology ETF",
+  "isin": "US46138E8003",
+  "cusip": null,
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0002",
+  "name": "Invesco Emerging Markets Sovereign Debt ETF",
+  "isin": "US46138E7849",
+  "cusip": null,
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0008",
+  "name": "Invesco Global Clean Energy ETF (art 8)",
+  "isin": "US46138G8472",
+  "cusip": null,
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0007",
+  "name": "Invesco Global Water ETF",
+  "isin": "US46138E6510",
+  "cusip": null,
+  "from": "2022-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0014",
+  "name": "Invesco International Corporate Bond ETF (PICB)",
+  "isin": "US46138E6361",
+  "cusip": null,
+  "from": "2024-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0006",
+  "name": "Invesco KBW Bank ETF",
+  "isin": "US46138E6288",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0010",
+  "name": "Invesco MSCI Global Climate 500 ETF",
+  "isin": "US46138G4331",
+  "cusip": null,
+  "from": "2024-06-26",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0011",
+  "name": "Invesco MSCI North America Climate ETF",
+  "isin": "US46138G4174",
+  "cusip": null,
+  "from": "2024-12-11",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0012",
+  "name": "Invesco RAFI Developed Markets ex-U.S. ETF",
+  "isin": "US46138E7435",
+  "cusip": null,
+  "from": "2024-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0003",
+  "name": "Invesco S&P 500 Low Volatility ETF",
+  "isin": "US46138E3541",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0013",
+  "name": "Invesco S&P 500\u00ae Momentum ETF",
+  "isin": "US46138E3392",
+  "cusip": null,
+  "from": "2024-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0001",
+  "name": "Invesco Senior Loan ETF",
+  "isin": "US46138G5080",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0009",
+  "name": "Invesco Solar ETF (art 8)",
+  "isin": "US46138G7060",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0149",
+  "parent": "Invesco Exchange-Traded Fund Trust II",
+  "classRef": "I0149-0004",
+  "name": "Invesco Taxable Municipal Bond ETF",
+  "isin": "US46138G8050",
+  "cusip": null,
+  "from": "2022-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0163",
+  "parent": "Invesco QQQ Trust, Series 1",
+  "classRef": "I0163-0001",
+  "name": "Invesco QQQ Trust Series 1",
+  "isin": "US46090E1038",
+  "cusip": null,
+  "from": "2024-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0169",
+  "parent": "iShares Bitcoin Trust ETF",
+  "classRef": "I0169-0001",
+  "name": "iShares Bitcoin Trust ETF",
+  "isin": "US46438F1012",
+  "cusip": null,
+  "from": "2025-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0172",
+  "parent": "iShares Ethereum Trust ETF",
+  "classRef": "I0172-0001",
+  "name": "iShares Ethereum Trust ETF",
+  "isin": "US46438R1059",
+  "cusip": null,
+  "from": "2025-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0167",
+  "parent": "iShares Gold Trust",
+  "classRef": "I0167-0001",
+  "name": "iShares Gold Trust",
+  "isin": "US4642852044",
+  "cusip": null,
+  "from": "2025-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0180",
+  "parent": "iShares Staked Ethereum Trust ETF",
+  "classRef": "I0180-0001",
+  "name": "iShares Staked Ethereum Trust ETF",
+  "isin": "US46438M1062",
+  "cusip": null,
+  "from": "2026-02-18",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0021",
+  "name": "iShares $ Treasury Bond 3-7yr - ETF",
+  "isin": "US4642886612",
+  "cusip": null,
+  "from": "2024-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0001",
+  "name": "iShares 0-5 Year TIPS Bond ETF",
+  "isin": "US46429B7477",
+  "cusip": null,
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0022",
+  "name": "iShares 1-3yr Treasury Bond ETF",
+  "isin": "US4642874576",
+  "cusip": null,
+  "from": "2024-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0016",
+  "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF - USD",
+  "isin": "US4642886463",
+  "cusip": null,
+  "from": "2024-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0018",
+  "name": "iShares 7-10 Year Treasury Bond ETF - USD",
+  "isin": "US4642874402",
+  "cusip": null,
+  "from": "2024-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0003",
+  "name": "iShares Broad USD High Yield Corporate Bond ETF",
+  "isin": "US46435U8532",
+  "cusip": null,
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0004",
+  "name": "iShares Core MSCI EAFE ETF",
+  "isin": "US46432F8427",
+  "cusip": null,
+  "from": "2021-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0043",
+  "name": "iShares Core MSCI Europe ETF",
+  "isin": "US46434V7385",
+  "cusip": null,
+  "from": "2024-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0042",
+  "name": "iShares Core MSCI International Developed Markets ETF",
+  "isin": "US46435G3267",
+  "cusip": null,
+  "from": "2024-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0044",
+  "name": "iShares Core MSCI Pacific ETF",
+  "isin": "US46434V6965",
+  "cusip": null,
+  "from": "2024-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0005",
+  "name": "iShares Core S&P 500 ETF",
+  "isin": "US4642872000",
+  "cusip": null,
+  "from": "2022-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0010",
+  "name": "iShares Core S&P Small-Cap ETF",
+  "isin": "US4642878049",
+  "cusip": null,
+  "from": "2022-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0039",
+  "name": "iShares Core S&P Total U.S. Stock Market ETF",
+  "isin": "US4642871507",
+  "cusip": null,
+  "from": "2024-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0041",
+  "name": "iShares Core Total USD Bond Market ETF",
+  "isin": "US46434V6130",
+  "cusip": null,
+  "from": "2024-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0002",
+  "name": "iShares Core U.S. Aggregate Bond ETF",
+  "isin": "US4642872265",
+  "cusip": null,
+  "from": "2021-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0045",
+  "name": "iShares Expanded Tech-Software Sector ETF",
+  "isin": "US4642875151",
+  "cusip": null,
+  "from": "2025-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0031",
+  "name": "iShares Global Consumer Staples ETF",
+  "isin": "US4642887370",
+  "cusip": null,
+  "from": "2024-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0020",
+  "name": "iShares iBoxx $ Investment Grade Corporate Bond",
+  "isin": "US4642872422",
+  "cusip": null,
+  "from": "2024-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0030",
+  "name": "iShares International Developed Real Estate ETF",
+  "isin": "US4642884898",
+  "cusip": null,
+  "from": "2024-05-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0046",
+  "name": "iShares MSCI ACWI ETF",
+  "isin": "US4642882579",
+  "cusip": null,
+  "from": "2025-06-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0026",
+  "name": "iShares MSCI International Quality Factor ETF",
+  "isin": "US46434V4564",
+  "cusip": null,
+  "from": "2024-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0029",
+  "name": "iShares MSCI International Value Factor",
+  "isin": "US46435G4091",
+  "cusip": null,
+  "from": "2024-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0014",
+  "name": "iShares MSCI United Kingdom ETF - USD Class",
+  "isin": "US46435G3341",
+  "cusip": null,
+  "from": "2023-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0027",
+  "name": "iShares MSCI USA Quality Factor ETF",
+  "isin": "US46432F3394",
+  "cusip": null,
+  "from": "2024-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0028",
+  "name": "iShares MSCI USA Value Factor",
+  "isin": "US46432F3881",
+  "cusip": null,
+  "from": "2024-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0040",
+  "name": "iShares Preferred and Income Securities ETF",
+  "isin": "US4642886877",
+  "cusip": null,
+  "from": "2024-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0019",
+  "name": "iShares Russell 1000 ETF",
+  "isin": "US4642876225",
+  "cusip": null,
+  "from": "2024-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0008",
+  "name": "iShares Russell 1000 Growth ETF",
+  "isin": "US4642876142",
+  "cusip": null,
+  "from": "2022-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0017",
+  "name": "iShares Russell 2000 ETF - USD",
+  "isin": "US4642876555",
+  "cusip": null,
+  "from": "2024-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0006",
+  "name": "iShares Russell 3000 ETF",
+  "isin": "US4642876894",
+  "cusip": null,
+  "from": "2022-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0007",
+  "name": "iShares Russell Mid-Cap Growth ETF",
+  "isin": "US4642874816",
+  "cusip": null,
+  "from": "2022-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0009",
+  "name": "iShares S&P Mid-Cap 400 Growth ETF",
+  "isin": "US4642876068",
+  "cusip": null,
+  "from": "2022-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0011",
+  "name": "iShares Semiconductor ETF",
+  "isin": "US4642875235",
+  "cusip": null,
+  "from": "2023-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0015",
+  "name": "iShares Short Treasury Bond ETF - USD",
+  "isin": "US4642886794",
+  "cusip": null,
+  "from": "2023-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0012",
+  "name": "iShares Short-Term National Muni Bond ETF - USD",
+  "isin": "US4642881589",
+  "cusip": null,
+  "from": "2023-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0047",
+  "name": "iShares U.S. Aerospace & Defense ETF",
+  "isin": "US4642887602",
+  "cusip": null,
+  "from": "2025-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0032",
+  "name": "iShares US Real Estate ETF",
+  "isin": "US4642877397",
+  "cusip": null,
+  "from": "2024-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
+  "classRef": "I0134-0025",
+  "name": "MSCI AC Asia ex Japan ETF",
+  "isin": "US4642881829",
+  "cusip": null,
+  "from": "2024-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0004",
+  "name": "iShares CORE MSCI Emerging Markets ETF - USD class",
+  "isin": "US46434G1031",
+  "cusip": null,
+  "from": "2023-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0001",
+  "name": "iShares J.P. Morgan EM Local Currency Bond ETF",
+  "isin": "US4642865178",
+  "cusip": null,
+  "from": "2020-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0007",
+  "name": "iShares MSCI Brazil ETF",
+  "isin": "US4642864007",
+  "cusip": null,
+  "from": "2024-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0005",
+  "name": "iShares MSCI Emerging Markets Asia ETF",
+  "isin": "US4642864262",
+  "cusip": null,
+  "from": "2024-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0003",
+  "name": "iShares MSCI Emerging Markets ex China ETF",
+  "isin": "US46434G7640",
+  "cusip": null,
+  "from": "2023-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0002",
+  "name": "iShares MSCI Global Metals & Mining Producers ETF - USD (Acc)",
+  "isin": "US46434G8481",
+  "cusip": null,
+  "from": "2021-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0006",
+  "name": "iShares MSCI Japan ETF",
+  "isin": "US46434G8226",
+  "cusip": null,
+  "from": "2024-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0009",
+  "name": "iShares, Inc MSCI Emerging Markets ETF",
+  "isin": "US4642872349",
+  "cusip": null,
+  "from": "2024-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0008",
+  "name": "iShares, Inc MSCI World ETF",
+  "isin": "US4642863926",
+  "cusip": null,
+  "from": "2024-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "K0058",
+  "parent": "KraneShares Trust",
+  "classRef": "K0058-0002",
+  "name": "KraneShares CSI China Internet ETF",
+  "isin": "US5007673065",
+  "cusip": null,
+  "from": "2024-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "K0058",
+  "parent": "KraneShares Trust",
+  "classRef": "K0058-0005",
+  "name": "KraneShares Dragon Capital Vietnam Growth Index ETF",
+  "isin": "US500767215",
+  "cusip": null,
+  "from": "2025-12-02",
+  "ceased": null
+ },
+ {
+  "ref": "K0058",
+  "parent": "KraneShares Trust",
+  "classRef": "K0058-0001",
+  "name": "KraneShares Global Carbon Strategy ETF",
+  "isin": "US5007676787",
+  "cusip": null,
+  "from": "2021-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "K0058",
+  "parent": "KraneShares Trust",
+  "classRef": "K0058-0004",
+  "name": "KraneShares Global Humanoid and Embodied Intelligence Index ETF",
+  "isin": "US5007677512",
+  "cusip": null,
+  "from": "2025-06-04",
+  "ceased": null
+ },
+ {
+  "ref": "K0058",
+  "parent": "KraneShares Trust",
+  "classRef": "K0058-0003",
+  "name": "KraneShares SSE Star Market 50 Index ETF",
+  "isin": "US5007676944",
+  "cusip": null,
+  "from": "2025-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "L0260",
+  "parent": "Lazard Funds, Inc (The)",
+  "classRef": "L0260-0001",
+  "name": "Lazard Global Listed Infrastructure Portfolio - Institutional",
+  "isin": "US52106N4593",
+  "cusip": null,
+  "from": "2021-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "L0260",
+  "parent": "Lazard Funds, Inc (The)",
+  "classRef": "L0260-0002",
+  "name": "Lazard Global Listed Infrastructure Portfolio - Open",
+  "isin": "US52106N4429",
+  "cusip": null,
+  "from": "2021-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "L0217",
+  "parent": "Lord Abbett Investment Trust",
+  "classRef": "L0217-0001",
+  "name": "Lord Abbett Short Duration Income Fund - Class I Shares",
+  "isin": "US5439166886",
+  "cusip": null,
+  "from": "2017-12-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0028",
+  "parent": "Market Vectors ETF Trust",
+  "classRef": "M0028-0049",
+  "name": "MSCI Emerging Markets Quality Dividend ETF",
+  "isin": "US57061R4526",
+  "cusip": null,
+  "from": "2014-10-01",
+  "ceased": "2015-09-18"
+ },
+ {
+  "ref": "M0028",
+  "parent": "Market Vectors ETF Trust",
+  "classRef": "M0028-0050",
+  "name": "MSCI Emerging Markets Quality ETF",
+  "isin": "US57061R4450",
+  "cusip": null,
+  "from": "2014-10-01",
+  "ceased": "2015-09-18"
+ },
+ {
+  "ref": "M0028",
+  "parent": "Market Vectors ETF Trust",
+  "classRef": "M0028-0051",
+  "name": "MSCI International Quality Dividend ETF",
+  "isin": "US57061R4377",
+  "cusip": null,
+  "from": "2014-10-01",
+  "ceased": "2015-09-18"
+ },
+ {
+  "ref": "M0028",
+  "parent": "Market Vectors ETF Trust",
+  "classRef": "M0028-0052",
+  "name": "MSCI International Quality ETF",
+  "isin": "US57061R4294",
+  "cusip": null,
+  "from": "2014-10-01",
+  "ceased": "2015-09-18"
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0004",
+  "name": "Matthews Asia Dividend Active ETF",
+  "isin": "US5771305860",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0009",
+  "name": "Matthews Asia Innovators Active ETF",
+  "isin": "US5771258267",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0008",
+  "name": "Matthews China Active ETF",
+  "isin": "US5771258341",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0011",
+  "name": "Matthews China Discovery Active ETF",
+  "isin": "US5771257350",
+  "cusip": null,
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0012",
+  "name": "Matthews Emerging Markets Discovery Active ETF",
+  "isin": "US5771257434",
+  "cusip": null,
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0010",
+  "name": "Matthews Emerging Markets Equity Active ETF",
+  "isin": "US5771258184",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0006",
+  "name": "Matthews Emerging Markets ex China Active ETF",
+  "isin": "US5771257921",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0001",
+  "name": "Matthews Emerging Markets Sustainable Future Active ETF",
+  "isin": "US5771306280",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0002",
+  "name": "Matthews India Active ETF",
+  "isin": "US5771306108",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0005",
+  "name": "Matthews Japan Active ETF",
+  "isin": "US5771305944",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0007",
+  "name": "Matthews Korea Active ETF",
+  "isin": "US5771257848",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0302",
+  "parent": "Matthews Asia Funds",
+  "classRef": "M0302-0003",
+  "name": "Matthews Pacific Tiger Active ETF",
+  "isin": "US5771305787",
+  "cusip": null,
+  "from": "2023-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0260",
+  "parent": "Metropolitan West Funds",
+  "classRef": "M0260-0001",
+  "name": "Metropolitan West Unconstrained Bond Fund -  Class I USD",
+  "isin": "US5929057496",
+  "cusip": null,
+  "from": "2020-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "M0045",
+  "parent": "Morgan Stanley Institutional Liquidity Funds",
+  "classRef": "M0045-0001",
+  "name": "Money Market Portfolio - Institutional Share Class",
+  "isin": "USD6174C7728",
+  "cusip": null,
+  "from": "2010-11-01",
+  "ceased": "2012-10-31"
+ },
+ {
+  "ref": "O0033",
+  "parent": "Old Westbury Funds, Inc.",
+  "classRef": "O0033-0005",
+  "name": "Old Westbury All Cap Core Fund",
+  "isin": "US6804143070",
+  "cusip": "680414307",
+  "from": "2014-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "O0033",
+  "parent": "Old Westbury Funds, Inc.",
+  "classRef": "O0033-0008",
+  "name": "Old Westbury Credit Income Fund",
+  "isin": "US6804148517",
+  "cusip": "680414851",
+  "from": "2020-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "O0033",
+  "parent": "Old Westbury Funds, Inc.",
+  "classRef": "O0033-0006",
+  "name": "Old Westbury Fixed Income Fund",
+  "isin": "US6804144060",
+  "cusip": "680414307",
+  "from": "2015-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "O0033",
+  "parent": "Old Westbury Funds, Inc.",
+  "classRef": "O0033-0004",
+  "name": "Old Westbury Large Cap Strategies Fund",
+  "isin": "US6804141090",
+  "cusip": "680414109",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "O0033",
+  "parent": "Old Westbury Funds, Inc.",
+  "classRef": "O0033-0002",
+  "name": "Old Westbury Multi-Asset Opportunities Fund",
+  "isin": "US6804148020",
+  "cusip": "680414802",
+  "from": "2010-11-01",
+  "ceased": "2020-09-30"
+ },
+ {
+  "ref": "O0033",
+  "parent": "Old Westbury Funds, Inc.",
+  "classRef": "O0033-0009",
+  "name": "Old Westbury Short-Term Bond Fund",
+  "isin": "US6804148442",
+  "cusip": null,
+  "from": "2024-02-29",
+  "ceased": null
+ },
+ {
+  "ref": "O0033",
+  "parent": "Old Westbury Funds, Inc.",
+  "classRef": "O0033-0003",
+  "name": "Old Westbury Small & Mid Cap Strategies Fund",
+  "isin": "US6804146040",
+  "cusip": "680414604",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "O0033",
+  "parent": "Old Westbury Funds, Inc.",
+  "classRef": "O0033-0010",
+  "name": "Old Westbury Total Equity Fund",
+  "isin": "US6804148368",
+  "cusip": null,
+  "from": "2025-02-28",
+  "ceased": null
+ },
+ {
+  "ref": "P0285",
+  "parent": "Polar Capital Emerging Market Stars Fund",
+  "classRef": "P0285-0001",
+  "name": "Institutional Class Shares",
+  "isin": "US2382101085",
+  "cusip": null,
+  "from": "2022-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "R0187",
+  "parent": "Rayliant NxtGen Multifactor International Equity ETF",
+  "classRef": "R0187-0001",
+  "name": "Rayliant NxtGen Multifactor International Equity ETF",
+  "isin": "US7546403087",
+  "cusip": null,
+  "from": "2026-04-07",
+  "ceased": null
+ },
+ {
+  "ref": "R0148",
+  "parent": "Rayliant Quantamental China Equity ETF",
+  "classRef": "R0148-0001",
+  "name": "Rayliant Quantamental China Equity ETF",
+  "isin": "US00774Q1976",
+  "cusip": null,
+  "from": "2020-12-30",
+  "ceased": null
+ },
+ {
+  "ref": "R0161",
+  "parent": "Rayliant Quantamental Developed Market Equity ETF",
+  "classRef": "R0161-0001",
+  "name": "Rayliant Quantitative Developed Market Equity ETF",
+  "isin": "US00775Y7287",
+  "cusip": null,
+  "from": "2021-12-15",
+  "ceased": null
+ },
+ {
+  "ref": "R0160",
+  "parent": "Rayliant Quantamental Emerging Market Equity ETF",
+  "classRef": "R0160-0001",
+  "name": "Rayliant Quantamental Emerging Market Equity ETF",
+  "isin": "US00775Y7105",
+  "cusip": null,
+  "from": "2021-12-15",
+  "ceased": null
+ },
+ {
+  "ref": "R0175",
+  "parent": "Rayliant SMDAM Japan Equity ETF",
+  "classRef": "R0175-0001",
+  "name": "Rayliant SMDAM Japan Equity ETF",
+  "isin": "US00775Y3559",
+  "cusip": null,
+  "from": "2024-04-04",
+  "ceased": null
+ },
+ {
+  "ref": "R0186",
+  "parent": "Rayliant-ChinaAMC Transformative China Tech ETF",
+  "classRef": "R0186-0001",
+  "name": "Rayliant-ChinaAMC Transformative China Tech ETF",
+  "isin": "US7546401008",
+  "cusip": null,
+  "from": "2025-09-24",
+  "ceased": null
+ },
+ {
+  "ref": "R0157",
+  "parent": "Roundhill Sports Betting & iGaming ETF",
+  "classRef": "R0157-0001",
+  "name": "Roundhill Sports Betting & iGaming ETF",
+  "isin": "US53656F7895",
+  "cusip": "53656F789",
+  "from": "2021-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "S0460",
+  "parent": "Silchester International Investors International Value Equity Alternative Exclusion Trust",
+  "classRef": "S0460-0001",
+  "name": "Silchester International Investors International Value Equity Alternative Exclusion Trust",
+  "isin": "US8268591000",
+  "cusip": null,
+  "from": "2026-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "S0250",
+  "parent": "Silchester International Investors International Value Equity Taxable Trust",
+  "classRef": "S0250-0001",
+  "name": "Silchester International Investors International Value Equity Taxable Trust",
+  "isin": "US8268541013",
+  "cusip": null,
+  "from": "2017-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "S0393",
+  "parent": "SmartETFs",
+  "classRef": "S0393-0002",
+  "name": "SmartETFs Asia Pacific Dividend Builder ETF - ADIV US",
+  "isin": "US4020318436",
+  "cusip": "402031843",
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "S0393",
+  "parent": "SmartETFs",
+  "classRef": "S0393-0001",
+  "name": "SmartETFs Dividend Builder ETF - DIVS US",
+  "isin": "US4020318352",
+  "cusip": "402031835",
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "S0393",
+  "parent": "SmartETFs",
+  "classRef": "S0393-0003",
+  "name": "SmartETFs Sustainable Energy II ETF - SOLR US",
+  "isin": "US4020318501",
+  "cusip": "402031850",
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "S0190",
+  "parent": "Somerset Frontiers Markets Fund LLC",
+  "classRef": "S0190-0001",
+  "name": "Reporting Status Interest",
+  "isin": "US8347042074",
+  "cusip": null,
+  "from": "2014-01-01",
+  "ceased": "2018-11-08"
+ },
+ {
+  "ref": "S0137",
+  "parent": "SPDR Gold Trust",
+  "classRef": "S0137-0001",
+  "name": "SPDR Gold Shares",
+  "isin": "US78463V1070",
+  "cusip": "78463V 107",
+  "from": "2011-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "S0361",
+  "parent": "Sprott ESG Gold ETF",
+  "classRef": "S0361-0001",
+  "name": "SPROTT ESG Gold ETF",
+  "isin": "US85210H1095",
+  "cusip": null,
+  "from": "2022-07-19",
+  "ceased": "2023-11-16"
+ },
+ {
+  "ref": "T0245",
+  "parent": "T. Rowe Price Exchange-Traded Funds, Inc.",
+  "classRef": "T0245-0001",
+  "name": "T. Rowe Price Technology ETF",
+  "isin": "US87283Q7925",
+  "cusip": null,
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "T0202",
+  "parent": "Target Global Selected Opportunities, LLC",
+  "classRef": "T0202-0001",
+  "name": "Target Global Selected Opportunities LLC - Series 2 Nickel",
+  "isin": "US87613K1016",
+  "cusip": null,
+  "from": "2021-05-21",
+  "ceased": null
+ },
+ {
+  "ref": "T0252",
+  "parent": "TCW ETF Trust",
+  "classRef": "T0252-0001",
+  "name": "TCW Transform Systems ETF - USD",
+  "isin": "US29287L2051",
+  "cusip": null,
+  "from": "2024-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "T0038",
+  "parent": "Templeton Global Bond Fund",
+  "classRef": "T0038-0001",
+  "name": "Advisor Class (dis)",
+  "isin": "US8802084009",
+  "cusip": null,
+  "from": "2010-09-01",
+  "ceased": "2023-12-31"
+ },
+ {
+  "ref": "T0038",
+  "parent": "Templeton Global Bond Fund",
+  "classRef": "T0038-0003",
+  "name": "Class A (dis)",
+  "isin": "US8802081039",
+  "cusip": null,
+  "from": "2010-09-01",
+  "ceased": "2023-12-31"
+ },
+ {
+  "ref": "T0038",
+  "parent": "Templeton Global Bond Fund",
+  "classRef": "T0038-0002",
+  "name": "Class C (dis)",
+  "isin": "US8802083019",
+  "cusip": null,
+  "from": "2010-09-01",
+  "ceased": "2023-12-31"
+ },
+ {
+  "ref": "T0037",
+  "parent": "Templeton Growth Fund Inc",
+  "classRef": "T0037-0002",
+  "name": "Class A (dis)",
+  "isin": "US8801991048",
+  "cusip": null,
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "T0037",
+  "parent": "Templeton Growth Fund Inc",
+  "classRef": "T0037-0001",
+  "name": "Class C1 (dis)",
+  "isin": "US8801992038",
+  "cusip": null,
+  "from": "2010-09-01",
+  "ceased": "2018-10-05"
+ },
+ {
+  "ref": "T0254",
+  "parent": "TPG Twin Brook Capital Income Fund",
+  "classRef": "T0254-0001",
+  "name": "TPG Twin Brook Capital Income Fund - Class I Shares",
+  "isin": "US00840T1007",
+  "cusip": null,
+  "from": "2023-03-01",
+  "ceased": null
+ },
+ {
+  "ref": "U0088",
+  "parent": "US Vegan Climate ETF",
+  "classRef": "U0088-0001",
+  "name": "US Vegan Climate ETF",
+  "isin": "US26922A2978",
+  "cusip": null,
+  "from": "2025-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0019",
+  "name": "Africa Index ETF",
+  "isin": "US92189F8665",
+  "cusip": "92189F866",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0002",
+  "name": "Agribusiness ETF",
+  "isin": "US92189F7006",
+  "cusip": "92189F700",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0038",
+  "name": "BDC Income ETF",
+  "isin": "US92189F4110",
+  "cusip": "92189F411",
+  "from": "2013-02-11",
+  "ceased": "2019-04-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0032",
+  "name": "Biotech ETF",
+  "isin": "US92189F7261",
+  "cusip": "92189F726",
+  "from": "2011-12-20",
+  "ceased": "2018-09-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0029",
+  "name": "Brazil Small-Cap ETF",
+  "isin": "US92189F8251",
+  "cusip": "92189F825",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0043",
+  "name": "ChinaAMC China Bond ETF",
+  "isin": "US92189F3799",
+  "cusip": "92189F379",
+  "from": "2014-05-01",
+  "ceased": "2019-04-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0006",
+  "name": "ChinaAMC CSI 300 ETF",
+  "isin": "US92189F7592",
+  "cusip": "92189F759",
+  "from": "2010-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0042",
+  "name": "ChinaAMC SME-ChiNext ETF",
+  "isin": "US92189F6271",
+  "cusip": "92189F627",
+  "from": "2014-07-23",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0018",
+  "name": "Coal ETF",
+  "isin": "US92189F8095",
+  "cusip": "92189F809",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0017",
+  "name": "Egypt Index ETF",
+  "isin": "US92189F7758",
+  "cusip": "92189F775",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0028",
+  "name": "Emerging Markets Aggregate Bond ETF",
+  "isin": "US92189F4789",
+  "cusip": "92189F478",
+  "from": "2011-05-11",
+  "ceased": "2019-04-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0031",
+  "name": "Emerging Markets High Yield Bond ETF",
+  "isin": "US92189F3534",
+  "cusip": "92189F353",
+  "from": "2012-05-08",
+  "ceased": "2019-04-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0016",
+  "name": "Environmental Services ETF",
+  "isin": "US92189F3047",
+  "cusip": "92189F304",
+  "from": "2011-01-01",
+  "ceased": "2018-09-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0025",
+  "name": "Fallen Angel High Yield Bond ETF",
+  "isin": "US92189F4375",
+  "cusip": "92189F437",
+  "from": "2012-04-11",
+  "ceased": "2019-04-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0015",
+  "name": "Gaming ETF",
+  "isin": "US92189F8822",
+  "cusip": "92189F882",
+  "from": "2011-01-01",
+  "ceased": "2018-09-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0047",
+  "name": "Generic Drugs ETF",
+  "isin": "US92189F5778",
+  "cusip": null,
+  "from": "2016-10-01",
+  "ceased": "2018-09-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0014",
+  "name": "Global Alternative Energy ETF",
+  "isin": "US92189F5026",
+  "cusip": "92189F502",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0044",
+  "name": "Global Spin-Off ETF",
+  "isin": "US92189F6198",
+  "cusip": "92189F619",
+  "from": "2015-06-09",
+  "ceased": "2018-09-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0009",
+  "name": "Gold Miners ETF",
+  "isin": "US92189F1066",
+  "cusip": "92189F106",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0013",
+  "name": "Gulf States Index ETF",
+  "isin": "US92189F8582",
+  "cusip": "92189F858",
+  "from": "2011-01-01",
+  "ceased": "2016-10-13"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0048",
+  "name": "High-Yield Municipal Index ETF",
+  "isin": "US92189H4092",
+  "cusip": null,
+  "from": "2019-05-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0036",
+  "name": "Indonesia Index ETF",
+  "isin": "US92189F8335",
+  "cusip": "92189F833",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0022",
+  "name": "Indonesia Small Cap ETF",
+  "isin": "US92189F6503",
+  "cusip": "92189F650",
+  "from": "2012-03-20",
+  "ceased": "2016-10-13"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0026",
+  "name": "International High Yield Bond ETF",
+  "isin": "US92189F4458",
+  "cusip": "92189F445",
+  "from": "2012-04-02",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0041",
+  "name": "Israel ETF",
+  "isin": "US92189F6354",
+  "cusip": "92189F635",
+  "from": "2013-06-25",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0003",
+  "name": "J.P. Morgan EM Local Currency Bond ETF",
+  "isin": "US92189H3003",
+  "cusip": "92189H300",
+  "from": "2011-05-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0011",
+  "name": "Junior Gold Miners ETF",
+  "isin": "US92189F7915",
+  "cusip": "92189F791",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0045",
+  "name": "Morningstar International Moat ETF",
+  "isin": "US92189F5935",
+  "cusip": "92189F593",
+  "from": "2015-07-13",
+  "ceased": "2018-09-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0024",
+  "name": "Morningstar Wide Moat ETF",
+  "isin": "US92189F6438",
+  "cusip": "92189F643",
+  "from": "2012-04-24",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0027",
+  "name": "Mortgage REIT Income ETF",
+  "isin": "US92189F4524",
+  "cusip": "92189F452",
+  "from": "2011-08-16",
+  "ceased": "2019-04-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0012",
+  "name": "Natural Resources ETF",
+  "isin": "US92189F8418",
+  "cusip": "92189F841",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0046",
+  "name": "Oil Refiners ETF",
+  "isin": "US92189F5851",
+  "cusip": "92189F585",
+  "from": "2015-08-18",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0033",
+  "name": "Oil Services ETF",
+  "isin": "US92189H6071",
+  "cusip": "92189H609",
+  "from": "2011-12-21",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0037",
+  "name": "Pharmaceutical ETF",
+  "isin": "US92189F6925",
+  "cusip": "92189F692",
+  "from": "2011-12-20",
+  "ceased": "2018-09-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0049",
+  "name": "Pharmaceutical ETF",
+  "isin": "US92189F6925",
+  "cusip": null,
+  "from": "2022-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0010",
+  "name": "Poland ETF",
+  "isin": "US92189F7832",
+  "cusip": "92189F783",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0039",
+  "name": "Preferred Securities ex Financials ETF",
+  "isin": "US92189F4292",
+  "cusip": "92189F429",
+  "from": "2012-07-16",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0004",
+  "name": "Rare Earth/Strategic Metals ETF",
+  "isin": "US92189F7428",
+  "cusip": "92189F742",
+  "from": "2010-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0030",
+  "name": "Retail ETF",
+  "isin": "US92189F6842",
+  "cusip": "92189F684",
+  "from": "2011-12-20",
+  "ceased": "2018-09-30"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0035",
+  "name": "Russia ETF",
+  "isin": "US92189F4037",
+  "cusip": "92189F403",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0034",
+  "name": "Russia Small-Cap ETF",
+  "isin": "US92189F7345",
+  "cusip": "92189F734",
+  "from": "2011-04-13",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0021",
+  "name": "Semiconductor ETF",
+  "isin": "US92189F6768",
+  "cusip": "92189F676",
+  "from": "2011-12-20",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0020",
+  "name": "Solar Energy ETF",
+  "isin": "US92189F8749",
+  "cusip": "92189F874",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0008",
+  "name": "Steel ETF",
+  "isin": "US92189F2056",
+  "cusip": "92189F205",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0040",
+  "name": "Treasury-Hedged High Yield Bond ETF",
+  "isin": "US92189F3955",
+  "cusip": "92189F395",
+  "from": "2013-03-21",
+  "ceased": "2017-10-10"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0023",
+  "name": "Unconventional Oil & Gas ETF",
+  "isin": "US92189F6685",
+  "cusip": "92189F668",
+  "from": "2012-02-14",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0001",
+  "name": "Uranium+Nuclear Energy ETF",
+  "isin": "US92189F6016",
+  "cusip": "92189F601",
+  "from": "2011-01-01",
+  "ceased": "2018-12-31"
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0005",
+  "name": "VanEck India Growth Leaders ETF",
+  "isin": "US92189F7675",
+  "cusip": "92189F767",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0046",
+  "parent": "VanEck ETF Trust",
+  "classRef": "V0046-0007",
+  "name": "Vietnam ETF",
+  "isin": "US92189F8178",
+  "cusip": "92189F817",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0019",
+  "parent": "Vanguard Admiral Funds",
+  "classRef": "V0019-0007",
+  "name": "Vanguard S&P 500 Growth Index Fund  - ETF Shares",
+  "isin": "US9219325050",
+  "cusip": "921932505",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0019",
+  "parent": "Vanguard Admiral Funds",
+  "classRef": "V0019-0008",
+  "name": "Vanguard S&P 500 Value Index Fund - ETF Shares",
+  "isin": "US9219327031",
+  "cusip": "921932703",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0019",
+  "parent": "Vanguard Admiral Funds",
+  "classRef": "V0019-0004",
+  "name": "Vanguard S&P Mid-Cap 400 Growth Index Fund  - ETF Shares",
+  "isin": "US9219328690",
+  "cusip": "921932869",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0019",
+  "parent": "Vanguard Admiral Funds",
+  "classRef": "V0019-0006",
+  "name": "Vanguard S&P Mid-Cap 400 Index Fund  - ETF Shares",
+  "isin": "US9219328856",
+  "cusip": "921932885",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0019",
+  "parent": "Vanguard Admiral Funds",
+  "classRef": "V0019-0005",
+  "name": "Vanguard S&P Mid-Cap 400 Value Index Fund - ETF Shares",
+  "isin": "US9219328443",
+  "cusip": "921932844",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0019",
+  "parent": "Vanguard Admiral Funds",
+  "classRef": "V0019-0001",
+  "name": "Vanguard S&P Small-Cap 600 Growth Index Fund  - ETF Shares",
+  "isin": "US9219327940",
+  "cusip": "921932794",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0019",
+  "parent": "Vanguard Admiral Funds",
+  "classRef": "V0019-0003",
+  "name": "Vanguard S&P Small-Cap 600 Index Fund  - ETF Shares",
+  "isin": "US9219328286",
+  "cusip": "921932828",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0019",
+  "parent": "Vanguard Admiral Funds",
+  "classRef": "V0019-0002",
+  "name": "Vanguard S&P Small-Cap 600 Value Index Fund  - ETF Shares",
+  "isin": "US9219327783",
+  "cusip": "921932778",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0017",
+  "parent": "Vanguard Bond Index Funds",
+  "classRef": "V0017-0002",
+  "name": "Vanguard Intermediate-Term Bond Index Fund - ETF Shares",
+  "isin": "US9219378190",
+  "cusip": "921937819",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0017",
+  "parent": "Vanguard Bond Index Funds",
+  "classRef": "V0017-0001",
+  "name": "Vanguard Long-Term Bond Index Fund -  ETF Shares",
+  "isin": "US9219377937",
+  "cusip": "921937793",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0017",
+  "parent": "Vanguard Bond Index Funds",
+  "classRef": "V0017-0003",
+  "name": "Vanguard Short-Term Bond Index Fund - ETF Shares",
+  "isin": "US9219378273",
+  "cusip": "921937827",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0017",
+  "parent": "Vanguard Bond Index Funds",
+  "classRef": "V0017-0004",
+  "name": "Vanguard Total Bond Market Index Fund - ETF Shares",
+  "isin": "US9219378356",
+  "cusip": "921937835",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0041",
+  "parent": "Vanguard Charlotte Funds",
+  "classRef": "V0041-0001",
+  "name": "Vanguard Total International Bond ETF Index Fund",
+  "isin": "US92203J4076",
+  "cusip": "92203J407",
+  "from": "2013-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0001",
+  "name": "Vanguard 500 Index Fund - ETF Shares",
+  "isin": "US9229083632",
+  "cusip": "922908363",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0011",
+  "name": "Vanguard Extended Market Index Fund -  ETF Shares",
+  "isin": "US9229086528",
+  "cusip": "922908652",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0004",
+  "name": "Vanguard Growth Index Fund - ETF Shares",
+  "isin": "US9229087369",
+  "cusip": "922908736",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0010",
+  "name": "Vanguard Large-Cap Index Fund -  ETF Shares",
+  "isin": "US9229086379",
+  "cusip": "922908637",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0003",
+  "name": "Vanguard Mid-Cap Growth Index Fund - ETF Shares",
+  "isin": "US9229085389",
+  "cusip": "922908538",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0009",
+  "name": "Vanguard Mid-Cap Index Fund Vanguard Mid-Cap ETF",
+  "isin": "US9229086296",
+  "cusip": "922908629",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0006",
+  "name": "Vanguard Mid-Cap Value Index Fund - ETF Shares",
+  "isin": "US9229085124",
+  "cusip": "922908512",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0002",
+  "name": "Vanguard Small-Cap Growth Index Fund - ETF Shares",
+  "isin": "US9229085959",
+  "cusip": "922908595",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0008",
+  "name": "Vanguard Small-Cap Index Fund - ETF Shares",
+  "isin": "US9229087518",
+  "cusip": "922908751",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0005",
+  "name": "Vanguard Small-Cap Value Index Fund - ETF Shares",
+  "isin": "US9229086114",
+  "cusip": "922908611",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0012",
+  "name": "Vanguard Total Stock Market Index Fund - ETF Shares",
+  "isin": "US9229087690",
+  "cusip": "922908769",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0016",
+  "parent": "Vanguard Index Funds",
+  "classRef": "V0016-0007",
+  "name": "Vanguard Value Index Fund - ETF Shares",
+  "isin": "US9229087443",
+  "cusip": "922908744",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0023",
+  "parent": "Vanguard International Equity Index Funds",
+  "classRef": "V0023-0005",
+  "name": "Vanguard Emerging Markets Stock Index Fund - ETF Shares",
+  "isin": "US9220428588",
+  "cusip": "922042858",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0023",
+  "parent": "Vanguard International Equity Index Funds",
+  "classRef": "V0023-0007",
+  "name": "Vanguard European Stock Index Fund- ETF Shares",
+  "isin": "US9220428745",
+  "cusip": "922042874",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0023",
+  "parent": "Vanguard International Equity Index Funds",
+  "classRef": "V0023-0004",
+  "name": "Vanguard FTSE All-World ex-US Index Fund - ETF Shares",
+  "isin": "US9220427754",
+  "cusip": "922042775",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0023",
+  "parent": "Vanguard International Equity Index Funds",
+  "classRef": "V0023-0002",
+  "name": "Vanguard FTSE All-World ex-US Small-Cap Index Fund - ETF Shares",
+  "isin": "US9220427184",
+  "cusip": "922042718",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0023",
+  "parent": "Vanguard International Equity Index Funds",
+  "classRef": "V0023-0001",
+  "name": "Vanguard Global ex-U.S. Real Estate Index Fund - ETF Shares",
+  "isin": "US9220426764",
+  "cusip": "922042676",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0023",
+  "parent": "Vanguard International Equity Index Funds",
+  "classRef": "V0023-0006",
+  "name": "Vanguard Pacific Stock Index Fund - ETF Shares",
+  "isin": "US9220428661",
+  "cusip": "922042866",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0023",
+  "parent": "Vanguard International Equity Index Funds",
+  "classRef": "V0023-0003",
+  "name": "Vanguard Total World Stock Index Fund - ETF Shares",
+  "isin": "US9220427424",
+  "cusip": "922042742",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0003",
+  "name": "Vanguard Intermediate-Term Corporate Bond Index Fund - ETF Shares",
+  "isin": "US92206C8709",
+  "cusip": "92206C870",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0006",
+  "name": "Vanguard Intermediate-Term Treasury Index Fund - ETF Shares",
+  "isin": "US92206C7065",
+  "cusip": "92206C706",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0002",
+  "name": "Vanguard Long-Term Corporate Bond Index Fund  - ETF Shares",
+  "isin": "US92206C8139",
+  "cusip": "92206C813",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0005",
+  "name": "Vanguard Long-Term Treasury Index Fund  - ETF Shares",
+  "isin": "US92206C8477",
+  "cusip": "92206C847",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0001",
+  "name": "Vanguard Mortgage-Backed Securities Index Fund - ETF Shares",
+  "isin": "US92206C7719",
+  "cusip": "92206C771",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0012",
+  "name": "Vanguard Russell 1000 Growth Index Fund - ETF Shares",
+  "isin": "US92206C6802",
+  "cusip": "92206C680",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0014",
+  "name": "Vanguard Russell 1000 Index Fund - ETF Shares",
+  "isin": "US92206C7305",
+  "cusip": "92206C730",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0013",
+  "name": "Vanguard Russell 1000 Value Index Fund - ETF Shares",
+  "isin": "US92206C7149",
+  "cusip": "92206C714",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0009",
+  "name": "Vanguard Russell 2000 Growth Index Fund - ETF Shares",
+  "isin": "US92206C6232",
+  "cusip": "92206C623",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0011",
+  "name": "Vanguard Russell 2000 Index Fund - ETF Shares",
+  "isin": "US92206C6646",
+  "cusip": "92206C664",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0010",
+  "name": "Vanguard Russell 2000 Value Index Fund -ETF Shares",
+  "isin": "US92206C6497",
+  "cusip": "92206C649",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0008",
+  "name": "Vanguard Russell 3000 Index Fund - ETF Shares",
+  "isin": "US92206C5994",
+  "cusip": "92206C599",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0004",
+  "name": "Vanguard Short-Term Corporate Bond Index Fund - ETF Shares",
+  "isin": "US92206C4096",
+  "cusip": "92206C409",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0020",
+  "parent": "Vanguard Scottsdale Funds",
+  "classRef": "V0020-0007",
+  "name": "Vanguard Short-Term Treasury Index Fund - ETF Shares",
+  "isin": "US92206C1027",
+  "cusip": "92206C102",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0018",
+  "parent": "Vanguard Specialized Funds",
+  "classRef": "V0018-0002",
+  "name": "Vanguard Dividend Appreciation Index Fund - ETF Shares",
+  "isin": "US9219088443",
+  "cusip": "921908844",
+  "from": "2011-02-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0018",
+  "parent": "Vanguard Specialized Funds",
+  "classRef": "V0018-0001",
+  "name": "Vanguard REIT Index Fund - ETF Shares",
+  "isin": "US9229085538",
+  "cusip": "922908553",
+  "from": "2011-02-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0024",
+  "parent": "Vanguard STAR Funds",
+  "classRef": "V0024-0001",
+  "name": "Vanguard Total International Stock Index Fund - ETF Shares",
+  "isin": "US9219097683",
+  "cusip": "921909768",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0015",
+  "parent": "Vanguard Tax-managed Funds",
+  "classRef": "V0015-0001",
+  "name": "Vanguard Tax-Managed International Fund Vanguard FTSE Developed Markets ETF",
+  "isin": "US9219438580",
+  "cusip": "921943858",
+  "from": "2011-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0022",
+  "parent": "Vanguard Whitehall Funds",
+  "classRef": "V0022-0002",
+  "name": "Vanguard Emerging Markets Government Bond ETF Index Fund",
+  "isin": "US9219468850",
+  "cusip": "921946885",
+  "from": "2013-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0022",
+  "parent": "Vanguard Whitehall Funds",
+  "classRef": "V0022-0001",
+  "name": "Vanguard High Dividend Yield Index Fund - ETF Shares",
+  "isin": "US9219464065",
+  "cusip": "921946406",
+  "from": "2010-11-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0013",
+  "name": "Vanguard Consumer Discretionary Index Fund - ETF Shares",
+  "isin": "US92204A1088",
+  "cusip": "92204A108",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0012",
+  "name": "Vanguard Consumer Staples Index Fund  - ETF Shares",
+  "isin": "US92204A2078",
+  "cusip": "92204A207",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0011",
+  "name": "Vanguard Energy Index Fund - ETF Shares",
+  "isin": "US92204A3068",
+  "cusip": "92204A306",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0014",
+  "name": "Vanguard Extended Duration Treasury Index Fund - ETF Shares",
+  "isin": "US9219107094",
+  "cusip": "921910709",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0010",
+  "name": "Vanguard Financials Index Fund - ETF Shares",
+  "isin": "US92204A4058",
+  "cusip": "92204A405",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0009",
+  "name": "Vanguard Health Care Index Fund - ETF Shares",
+  "isin": "US92204A5048",
+  "cusip": "92204A504",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0008",
+  "name": "Vanguard Industrials Index Fund - ETF Shares",
+  "isin": "US92204A6038",
+  "cusip": "92204A603",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0007",
+  "name": "Vanguard Information Technology Index Fund - ETF Shares",
+  "isin": "US92204A7028",
+  "cusip": "92204A702",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0006",
+  "name": "Vanguard Materials Index Fund - ETF Shares",
+  "isin": "US92204A8018",
+  "cusip": "92204A801",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0001",
+  "name": "Vanguard Mega Cap Growth Index Fund - ETF Shares",
+  "isin": "US9219108167",
+  "cusip": "921910816",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0003",
+  "name": "Vanguard Mega Cap Index Fund - ETF Shares",
+  "isin": "US9219108738",
+  "cusip": "921910873",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0002",
+  "name": "Vanguard Mega Cap Value Index Fund - ETF Shares",
+  "isin": "US9219108407",
+  "cusip": "921910840",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0005",
+  "name": "Vanguard Telecommunication Services Index Fund - ETF Shares",
+  "isin": "US92204A8844",
+  "cusip": "92204A884",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0021",
+  "parent": "Vanguard World Funds",
+  "classRef": "V0021-0004",
+  "name": "Vanguard Utilities Index Fund - ETF Shares",
+  "isin": "US92204A8760",
+  "cusip": "92204A876",
+  "from": "2010-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "V0054",
+  "parent": "Velanne Global Equity Fund",
+  "classRef": "V0054-0001",
+  "name": "Velanne Global Equity Fund",
+  "isin": "US92257Q1094",
+  "cusip": null,
+  "from": "2017-11-01",
+  "ceased": "2022-01-01"
+ },
+ {
+  "ref": "V0110",
+  "parent": "Vert Global Sustainable Real Estate ETF",
+  "classRef": "V0110-0001",
+  "name": "Vert Global Sustainable Real Estate ETF",
+  "isin": "US56170L6956",
+  "cusip": null,
+  "from": "2025-07-01",
+  "ceased": null
+ },
+ {
+  "ref": "W0046",
+  "parent": "WisdomTree Trust",
+  "classRef": "W0046-0001",
+  "name": "WisdomTree Emerging Markets High Dividend Fund",
+  "isin": "US97717W3152",
+  "cusip": null,
+  "from": "2015-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "W0046",
+  "parent": "WisdomTree Trust",
+  "classRef": "W0046-0002",
+  "name": "WisdomTree Emerging Markets SmallCap Dividend Fund",
+  "isin": "US97717W2816",
+  "cusip": null,
+  "from": "2015-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "W0046",
+  "parent": "WisdomTree Trust",
+  "classRef": "W0046-0003",
+  "name": "WisdomTree Europe Hedged Equity Fund",
+  "isin": "US97717X7012",
+  "cusip": null,
+  "from": "2015-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "W0046",
+  "parent": "WisdomTree Trust",
+  "classRef": "W0046-0004",
+  "name": "WisdomTree India Earnings Fund",
+  "isin": "US97717W4226",
+  "cusip": null,
+  "from": "2015-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "W0046",
+  "parent": "WisdomTree Trust",
+  "classRef": "W0046-0005",
+  "name": "WisdomTree Japan Hedged Equity Fund",
+  "isin": "US97717W8516",
+  "cusip": null,
+  "from": "2015-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "W0046",
+  "parent": "WisdomTree Trust",
+  "classRef": "W0046-0006",
+  "name": "WisdomTree Japan Hedged SmallCap Equity Fund",
+  "isin": "US97717W5215",
+  "cusip": null,
+  "from": "2015-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "W0065",
+  "parent": "World Gold Trust",
+  "classRef": "W0065-0001",
+  "name": "SPDR\u00ae Gold MiniShares Trust - SPDR\u00ae Gold MiniShares",
+  "isin": "US98149E3036",
+  "cusip": null,
+  "from": "2018-10-01",
+  "ceased": null
+ }
+]
