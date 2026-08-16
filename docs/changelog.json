@@ -1,0 +1,36 @@
+[
+ {
+  "date": "2026-08-16",
+  "sourceFile": "20260804_approved_offshore_reporting_funds.ods",
+  "added": [
+   {
+    "parent": "Dimensional ETF Trust",
+    "name": "Dimensional US Large Cap Core Equity Market ETF - Share Class",
+    "isin": "US25434V5268"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund IV",
+    "name": "First Trust AAA CMBS ETF",
+    "isin": "US33738D7628"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund IV",
+    "name": "First Trust Core Investment Grade ETF",
+    "isin": "US33738D7883"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund IV",
+    "name": "First Trust Structured Credit Income Opportunities ETF",
+    "isin": "US33738D7701"
+   }
+  ],
+  "removed": [],
+  "ceased": [
+   {
+    "parent": "First Trust Exchange-Traded Fund VIII",
+    "name": "First Trust TCW Emerging Markets Debt ETF",
+    "isin": "US33740U6047"
+   }
+  ]
+ }
+]

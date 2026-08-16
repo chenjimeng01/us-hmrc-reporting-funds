@@ -982,6 +982,16 @@
  {
   "ref": "D0115",
   "parent": "Dimensional ETF Trust",
+  "classRef": "D0115-0046",
+  "name": "Dimensional US Large Cap Core Equity Market ETF - Share Class",
+  "isin": "US25434V5268",
+  "cusip": null,
+  "from": "2026-06-18",
+  "ceased": null
+ },
+ {
+  "ref": "D0115",
+  "parent": "Dimensional ETF Trust",
   "classRef": "D0115-0034",
   "name": "Dimensional US Large Cap Value ETF - Share class",
   "isin": "US25434V6662",
@@ -1067,16 +1077,6 @@
   "isin": "US25434V8809",
   "cusip": "25434V880",
   "from": "2020-11-01",
-  "ceased": null
- },
- {
-  "ref": "D0115",
-  "parent": "Dimensional ETF Trust",
-  "classRef": "D0115-0010",
-  "name": "Dimensionional Inflation Protected Securities ETF",
-  "isin": "US25434V8569",
-  "cusip": "25434V856",
-  "from": "To Be Confirmed",
   "ceased": null
  },
  {
@@ -2062,6 +2062,26 @@
  {
   "ref": "F0081",
   "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0017",
+  "name": "First Trust AAA CMBS ETF",
+  "isin": "US33738D7628",
+  "cusip": null,
+  "from": "2025-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0018",
+  "name": "First Trust Core Investment Grade ETF",
+  "isin": "US33738D7883",
+  "cusip": null,
+  "from": "2025-08-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
   "classRef": "F0081-0007",
   "name": "First Trust EIP Carbon Impact ETF",
   "isin": "US33738D7057",
@@ -2158,6 +2178,16 @@
   "cusip": null,
   "from": "2017-11-01",
   "ceased": "2018-10-31"
+ },
+ {
+  "ref": "F0081",
+  "parent": "First Trust Exchange-Traded Fund IV",
+  "classRef": "F0081-0019",
+  "name": "First Trust Structured Credit Income Opportunities ETF",
+  "isin": "US33738D7701",
+  "cusip": null,
+  "from": "2025-08-01",
+  "ceased": null
  },
  {
   "ref": "F0081",
@@ -2557,7 +2587,7 @@
   "isin": "US33740U6047",
   "cusip": null,
   "from": "2021-09-01",
-  "ceased": null
+  "ceased": "2025-04-15"
  },
  {
   "ref": "F0112",
