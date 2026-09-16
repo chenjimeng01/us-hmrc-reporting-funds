@@ -1,5 +1,33 @@
 [
  {
+  "date": "2026-09-16",
+  "sourceFile": "20260904_Master-Weblist.ods",
+  "added": [],
+  "removed": [],
+  "ceased": [
+   {
+    "parent": "First Trust Exchange-Traded AlphaDEX Fund II\u00ae",
+    "name": "First Trust Brazil AlphaDEX\u00ae Fund",
+    "isin": "US33737J1337"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VI",
+    "name": "First Trust Dorsey Wright Dynamic Focus 5 ETF",
+    "isin": "US33738R8786"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VI",
+    "name": "First Trust Dorsey Wright Momentum & Dividend ETF",
+    "isin": "US33738R6962"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VI",
+    "name": "First Trust lnternational Developed Capital Strength ETF",
+    "isin": "US33738R6624"
+   }
+  ]
+ },
+ {
   "date": "2026-08-16",
   "sourceFile": "20260804_approved_offshore_reporting_funds.ods",
   "added": [

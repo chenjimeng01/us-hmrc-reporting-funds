@@ -1,10 +1,10 @@
 {
- "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a7345665f63cd01e0b6585f/20260804_approved_offshore_reporting_funds.ods",
- "sourceFile": "20260804_approved_offshore_reporting_funds.ods",
- "sourceDate": "2026-08-04",
- "built": "2026-08-16T07:41:59+00:00",
- "totalHmrcRows": 124140,
+ "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a9fea9392e72b8ac437eeea/20260904_Master-Weblist.ods",
+ "sourceFile": "20260904_Master-Weblist.ods",
+ "sourceDate": "2026-09-04",
+ "built": "2026-09-16T12:35:28+00:00",
+ "totalHmrcRows": 124690,
  "usShareClasses": 573,
- "usActive": 506,
+ "usActive": 502,
  "usParentFunds": 103
 }
