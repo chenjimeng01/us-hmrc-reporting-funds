@@ -162,6 +162,16 @@
  {
   "ref": "A0538",
   "parent": "American Century ETF Trust",
+  "classRef": "A0538-0009",
+  "name": "Avantis International Small Cap Value ETF",
+  "isin": "US0250728021",
+  "cusip": null,
+  "from": "2025-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "A0538",
+  "parent": "American Century ETF Trust",
   "classRef": "A0538-0006",
   "name": "Avantis Responsible Emerging Markets Equity ETF",
   "isin": "US0250723154",
@@ -250,9 +260,9 @@
   "ceased": null
  },
  {
-  "ref": "D0155",
+  "ref": "B0348",
   "parent": "Baron Select Funds",
-  "classRef": "D0155-0001",
+  "classRef": "B0348-0001",
   "name": "Baron Global Opportunity Fund - Institutional Share Class",
   "isin": "US06828M8358",
   "cusip": null,
@@ -1577,7 +1587,7 @@
   "isin": "US33733E8158",
   "cusip": null,
   "from": "2023-03-13",
-  "ceased": null
+  "ceased": "2026-12-31"
  },
  {
   "ref": "F0083",
@@ -1857,7 +1867,7 @@
   "isin": "US33736N1019",
   "cusip": null,
   "from": "2016-10-01",
-  "ceased": null
+  "ceased": "2026-09-30"
  },
  {
   "ref": "F0113",
@@ -2492,6 +2502,36 @@
  {
   "ref": "F0112",
   "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0045",
+  "name": "First Trust Active Factor Large Cap ETF",
+  "isin": "US33740F8216",
+  "cusip": null,
+  "from": "2025-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0046",
+  "name": "First Trust Active Factor Mid Cap ETF",
+  "isin": "US33740F8133",
+  "cusip": null,
+  "from": "2025-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0047",
+  "name": "First Trust Active Factor Small Cap ETF",
+  "isin": "US33740F7978",
+  "cusip": null,
+  "from": "2025-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
   "classRef": "F0112-0042",
   "name": "First Trust Active Global Quality lncome ETF",
   "isin": "US33740F3837",
@@ -2517,7 +2557,7 @@
   "isin": "US33740U8514",
   "cusip": null,
   "from": "2021-06-14",
-  "ceased": null
+  "ceased": "2026-08-31"
  },
  {
   "ref": "F0112",
@@ -2527,7 +2567,7 @@
   "isin": "US33740F5659",
   "cusip": null,
   "from": "2021-05-25",
-  "ceased": null
+  "ceased": "2026-08-31"
  },
  {
   "ref": "F0112",
@@ -2637,6 +2677,16 @@
   "isin": "US33740U7037",
   "cusip": null,
   "from": "2021-01-20",
+  "ceased": null
+ },
+ {
+  "ref": "F0112",
+  "parent": "First Trust Exchange-Traded Fund VIII",
+  "classRef": "F0112-0048",
+  "name": "FT Vest Laddered Enhance & Moderate Buffer ETF",
+  "isin": "US33744U2042",
+  "cusip": null,
+  "from": "2025-09-01",
   "ceased": null
  },
  {
@@ -3117,6 +3167,36 @@
   "isin": "US38965D1046",
   "cusip": null,
   "from": "2025-10-29",
+  "ceased": null
+ },
+ {
+  "ref": "G0289",
+  "parent": "Guinness Atkinson ETFs",
+  "classRef": "G0289-0002",
+  "name": "SmartETFs Asia Pacific Dividend Builder ETF - ADIV US",
+  "isin": "US4020318436",
+  "cusip": "402031843",
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0289",
+  "parent": "Guinness Atkinson ETFs",
+  "classRef": "G0289-0001",
+  "name": "SmartETFs Dividend Builder ETF - DIVS US",
+  "isin": "US4020318352",
+  "cusip": "402031835",
+  "from": "2024-01-01",
+  "ceased": null
+ },
+ {
+  "ref": "G0289",
+  "parent": "Guinness Atkinson ETFs",
+  "classRef": "G0289-0003",
+  "name": "SmartETFs Sustainable Energy II ETF - SOLR US",
+  "isin": "US4020318501",
+  "cusip": "402031850",
+  "from": "2024-01-01",
   "ceased": null
  },
  {
@@ -4327,36 +4407,6 @@
   "isin": "US8268541013",
   "cusip": null,
   "from": "2017-01-01",
-  "ceased": null
- },
- {
-  "ref": "S0393",
-  "parent": "SmartETFs",
-  "classRef": "S0393-0002",
-  "name": "SmartETFs Asia Pacific Dividend Builder ETF - ADIV US",
-  "isin": "US4020318436",
-  "cusip": "402031843",
-  "from": "2024-01-01",
-  "ceased": null
- },
- {
-  "ref": "S0393",
-  "parent": "SmartETFs",
-  "classRef": "S0393-0001",
-  "name": "SmartETFs Dividend Builder ETF - DIVS US",
-  "isin": "US4020318352",
-  "cusip": "402031835",
-  "from": "2024-01-01",
-  "ceased": null
- },
- {
-  "ref": "S0393",
-  "parent": "SmartETFs",
-  "classRef": "S0393-0003",
-  "name": "SmartETFs Sustainable Energy II ETF - SOLR US",
-  "isin": "US4020318501",
-  "cusip": "402031850",
-  "from": "2024-01-01",
   "ceased": null
  },
  {

@@ -1,10 +1,10 @@
 {
- "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a9fea9392e72b8ac437eeea/20260904_Master-Weblist.ods",
- "sourceFile": "20260904_Master-Weblist.ods",
- "sourceDate": "2026-09-04",
- "built": "2026-09-16T12:35:28+00:00",
- "totalHmrcRows": 124690,
- "usShareClasses": 573,
- "usActive": 502,
+ "sourceUrl": "https://assets.publishing.service.gov.uk/media/6ac76647e8ef5609e7c93368/20261006_Master-Weblist.ods",
+ "sourceFile": "20261006_Master-Weblist.ods",
+ "sourceDate": "2026-10-06",
+ "built": "2026-10-16T12:21:02+00:00",
+ "totalHmrcRows": 125022,
+ "usShareClasses": 578,
+ "usActive": 503,
  "usParentFunds": 103
 }

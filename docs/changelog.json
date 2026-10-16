@@ -1,5 +1,59 @@
 [
  {
+  "date": "2026-10-16",
+  "sourceFile": "20261006_Master-Weblist.ods",
+  "added": [
+   {
+    "parent": "American Century ETF Trust",
+    "name": "Avantis International Small Cap Value ETF",
+    "isin": "US0250728021"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VIII",
+    "name": "First Trust Active Factor Large Cap ETF",
+    "isin": "US33740F8216"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VIII",
+    "name": "First Trust Active Factor Mid Cap ETF",
+    "isin": "US33740F8133"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VIII",
+    "name": "First Trust Active Factor Small Cap ETF",
+    "isin": "US33740F7978"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VIII",
+    "name": "FT Vest Laddered Enhance & Moderate Buffer ETF",
+    "isin": "US33744U2042"
+   }
+  ],
+  "removed": [],
+  "ceased": [
+   {
+    "parent": "First Trust Exchange-Traded Fund",
+    "name": "First Trust Bloomberg Inflation Sensitive Equity ETF",
+    "isin": "US33733E8158"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund II",
+    "name": "First Trust Alerian Disruptive Technology Real Estate ETF",
+    "isin": "US33736N1019"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VIII",
+    "name": "First Trust Expanded Technology ETF",
+    "isin": "US33740U8514"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VIII",
+    "name": "First Trust Innovation Leaders ETF",
+    "isin": "US33740F5659"
+   }
+  ]
+ },
+ {
   "date": "2026-09-16",
   "sourceFile": "20260904_Master-Weblist.ods",
   "added": [],
