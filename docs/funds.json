@@ -1902,6 +1902,16 @@
  {
   "ref": "F0113",
   "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0019",
+  "name": "First Trust Bloomberg Nuclear Power ETF",
+  "isin": "US33734X7214",
+  "cusip": null,
+  "from": "2026-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
   "classRef": "F0113-0012",
   "name": "First Trust Cloud Computing ETF",
   "isin": "US33734X1928",
@@ -1927,6 +1937,16 @@
   "isin": "US33734X7701",
   "cusip": null,
   "from": "2020-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0113",
+  "parent": "First Trust Exchange-Traded Fund II",
+  "classRef": "F0113-0018",
+  "name": "First Trust Emerging Markets Human Flourishing ETF",
+  "isin": "US33734X7479",
+  "cusip": null,
+  "from": "2026-10-01",
   "ceased": null
  },
  {
@@ -2447,6 +2467,16 @@
   "isin": "US33738R5063",
   "cusip": null,
   "from": "2017-10-01",
+  "ceased": null
+ },
+ {
+  "ref": "F0122",
+  "parent": "First Trust Exchange-Traded Fund VI",
+  "classRef": "F0122-0022",
+  "name": "First Trust S&P 500 Economic Moat ETF",
+  "isin": "US33738R6137",
+  "cusip": null,
+  "from": "2026-10-01",
   "ceased": null
  },
  {
@@ -3852,6 +3882,16 @@
  {
   "ref": "I0134",
   "parent": "iShares Trust",
+  "classRef": "I0134-0048",
+  "name": "iShares Top 20 U.S. Stocks ETF",
+  "isin": "US46438G5707",
+  "cusip": null,
+  "from": "2026-04-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0134",
+  "parent": "iShares Trust",
   "classRef": "I0134-0047",
   "name": "iShares U.S. Aerospace & Defense ETF",
   "isin": "US4642887602",
@@ -3927,6 +3967,16 @@
   "isin": "US46434G7640",
   "cusip": null,
   "from": "2023-09-01",
+  "ceased": null
+ },
+ {
+  "ref": "I0135",
+  "parent": "iShares, Inc.",
+  "classRef": "I0135-0010",
+  "name": "iShares MSCI Germany ETF",
+  "isin": "US4642868065",
+  "cusip": null,
+  "from": "2026-09-01",
   "ceased": null
  },
  {
@@ -4343,7 +4393,7 @@
   "ref": "R0161",
   "parent": "Rayliant Quantamental Developed Market Equity ETF",
   "classRef": "R0161-0001",
-  "name": "Rayliant Quantitative Developed Market Equity ETF",
+  "name": "Rayliant NxtGen Multifactor US Equity ETF",
   "isin": "US00775Y7287",
   "cusip": null,
   "from": "2021-12-15",
@@ -4353,7 +4403,7 @@
   "ref": "R0160",
   "parent": "Rayliant Quantamental Emerging Market Equity ETF",
   "classRef": "R0160-0001",
-  "name": "Rayliant Quantamental Emerging Market Equity ETF",
+  "name": "Rayliant NxtGen Multifactor Emerging Markets Equity ETF",
   "isin": "US00775Y7105",
   "cusip": null,
   "from": "2021-12-15",

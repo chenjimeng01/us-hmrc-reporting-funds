@@ -1,5 +1,38 @@
 [
  {
+  "date": "2026-11-16",
+  "sourceFile": "20261102_Master-Weblist.ods",
+  "added": [
+   {
+    "parent": "First Trust Exchange-Traded Fund II",
+    "name": "First Trust Bloomberg Nuclear Power ETF",
+    "isin": "US33734X7214"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund II",
+    "name": "First Trust Emerging Markets Human Flourishing ETF",
+    "isin": "US33734X7479"
+   },
+   {
+    "parent": "First Trust Exchange-Traded Fund VI",
+    "name": "First Trust S&P 500 Economic Moat ETF",
+    "isin": "US33738R6137"
+   },
+   {
+    "parent": "iShares Trust",
+    "name": "iShares Top 20 U.S. Stocks ETF",
+    "isin": "US46438G5707"
+   },
+   {
+    "parent": "iShares, Inc.",
+    "name": "iShares MSCI Germany ETF",
+    "isin": "US4642868065"
+   }
+  ],
+  "removed": [],
+  "ceased": []
+ },
+ {
   "date": "2026-10-16",
   "sourceFile": "20261006_Master-Weblist.ods",
   "added": [
